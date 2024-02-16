@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Please, follow this link for the **Teaching Assistant (TA)** positions in the upcoming semester.
+Please, follow this link for the **Teaching Assistant (TA)** positions in the upcoming semester. (expired)
