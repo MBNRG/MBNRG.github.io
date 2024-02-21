@@ -1,5 +1,5 @@
-# **Associate Professor**
-## **MBNRG head**
+# **S. Mohammad Razavizadeh, PhD, SMIEEE**
+## **Associate Professor**
 - **Department:** School of Electrical Engineering
 - **University:** Iran University of Science & Technology (IUST)
 - **Location:** Tehran, Iran
