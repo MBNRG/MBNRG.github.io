@@ -2,10 +2,10 @@
 layout: page
 title: Research Area
 permalink: /Research/
-description: A growing collection of your cool projects.
+description: Wireless Communications - Signal Processing - MIMO - Physical Layer Security
 nav: true
 nav_order: 4
-display_categories: [Research, Works]
+display_categories: [Research Interests]
 horizontal: false
 ---
 
