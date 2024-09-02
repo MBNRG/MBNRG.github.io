@@ -12,3 +12,8 @@
 - **Research Area:** ```Physical Layer Security - 6G Wireless Networks```
 - **Webpage:** [LinkedIn](http://www.linkedin.com/in/ali-rezapour)
 - **Since:** *2021*
+
+### **Maryam Asadi - Ph.D. Student**
+- **Research Area:** ```Integrated Sensing and Communication (ISAC) - Reconfigurable Intelligent Surfaces (RIS) - Physical Layer Security```
+- **Webpage:** [LinkedIn](https://www.linkedin.com/in/maryam-asadi-38665923a)
+- **Since:** *2022*
