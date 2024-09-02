@@ -1,22 +1,22 @@
 # **Past M.Sc. Students**
 
-**Ali Khatibi** *(2020-2023)*    [(LinkedIn)](https://www.linkedin.com/in/ali-khatibi-7632541b5)
+- **Ali Khatibi** *(2020-2023)*    [(LinkedIn)](https://www.linkedin.com/in/ali-khatibi-7632541b5)
 
 Thesis: ```Maximization of Rate in IoT systems with RIS and NOMA```
 
-**Hanieh Memarian** *(2020-2023)*     [(LinkedIn)](https://www.linkedin.com/in/hanie-memarian)
+- **Hanieh Memarian** *(2020-2023)*     [(LinkedIn)](https://www.linkedin.com/in/hanie-memarian)
 
 Thesis: ```Security of Aerial RIS-assisted Networks```
 
-**Reza Ghasemi Alavicheh** (*2020-2023*)     [(LinkedIn)](https://www.linkedin.com/in/rezaghasemi/)
+- **Reza Ghasemi Alavicheh** (*2020-2023*)     [(LinkedIn)](https://www.linkedin.com/in/rezaghasemi/)
 
 Thesis: ```Integrated Access and Backhaul in Non-Terrestrial Wireless Networks```
 
-**Reza Javadzadeh** (*2022*)     [(LinkedIn)](http://linkedin.com/in/reza-javadzadeh)
+- **Reza Javadzadeh** (*2022*)     [(LinkedIn)](http://linkedin.com/in/reza-javadzadeh)
 
 Thesis: ```Spectrum Sharing in a UAV-Based Communication Network```
 
-**Moein Daroonparvar** (*2022*)     [(LinkedIn)](https://www.linkedin.com/in/moein-daroonparvar-2582b1239/)
+- **Moein Daroonparvar** (*2022*)     [(LinkedIn)](https://www.linkedin.com/in/moein-daroonparvar-2582b1239/)
 
 Thesis: ```Fluctuations Effect in Wireless Communication based UAV-IRS```
 
