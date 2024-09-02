@@ -17,11 +17,10 @@ profiles:
       <p></p>
       <p></p>
       <p></p>
-      
-      - align: left
+  - align: left
     image: 
     content: PhD_Students.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
       <p></p>
       <p></p>
@@ -29,7 +28,7 @@ profiles:
   - align: left
     image: 
     content: Master_Students.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
       <p></p>
       <p></p>
@@ -37,7 +36,7 @@ profiles:
   - align: left
     image: 
     content: Past_PhD_Students.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
       <p></p>
       <p></p>
