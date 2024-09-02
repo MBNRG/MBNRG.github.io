@@ -1,6 +1,6 @@
 # **Past M.Sc. Students**
 
-**Ali Khatibi** *(2020-2023)*    [(LinkedIn)](https://www.linkedin.com/in/ali-khatibi-7632541b5)
+- **Ali Khatibi** *(2020-2023)*    [(LinkedIn)](https://www.linkedin.com/in/ali-khatibi-7632541b5)
 
 Thesis: ```Maximization of Rate in IoT systems with RIS and NOMA```
 
