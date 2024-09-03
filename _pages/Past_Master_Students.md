@@ -52,7 +52,7 @@ Thesis: ```Deep Reinforcement Learning based Energy Efficient Resource Allocatio
 
 Thesis: ```Sum-rate maximization in downlink of a fog radio access network with massive MIMO antennas```
 
-- **Anahid Rafieifar** (*2018-2021*)     [(LinkedIn)](link)
+- **Anahid Rafieifar** (*2018-2021*)     [(LinkedIn)](https://www.linkedin.com/in/anahid-rafieifar/)
 
 Thesis: ```Physical layer security in multi IRS-assisted millimeter wave systems```
 
