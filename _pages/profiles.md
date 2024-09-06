@@ -17,7 +17,7 @@ profiles:
       <p></p>
       <p></p>
       <p></p>
-   
+  
   - align: left
     image: member.png
     content: Master_Students.md
