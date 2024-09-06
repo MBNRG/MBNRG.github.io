@@ -27,7 +27,7 @@ profiles:
       <p></p>
 
   - align: left
-    image: member.png
+    image: HamidrezaHojjati.png
     content: Hamidreza_Hojjati.md
     image_circular: true # crops the image to make it circular
     more_info: >
