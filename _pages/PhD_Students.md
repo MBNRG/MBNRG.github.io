@@ -1,17 +1,18 @@
 # **Ph.D. Students**
+
+
 - align: left
     image: member.png
+   content: - **S. Fatemeh Bozorgi - Ph.D. Student**
+  - Research Area: ``` Physical Layer Security - 6G - UAV Networks ```
+  - Webpage: LinkedIn
+  - Since: *2020*
     image_circular: false # crops the image to make it circular
     more_info: >
       <p></p>
       <p></p>
       <p></p>
 
-
-- **S. Fatemeh Bozorgi - Ph.D. Student**
-  - Research Area: ``` Physical Layer Security - 6G - UAV Networks ```
-  - Webpage: LinkedIn
-  - Since: *2020*
 
 - **Hamidreza Hojati - Ph.D. Student**
   - Research Area: ```IRS - UAV Communications - 6G Networks```
