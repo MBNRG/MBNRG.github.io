@@ -9,4 +9,6 @@ display_categories: [Research Interests]
 horizontal: false
 ---
 
-- Cell-free Massive mimo
+- Cell-Free Massive MIMO systems
+- Intelligent reflecting surface (IRS) assisted systems
+- Unmanned Aerial Vehicles (UAV) Communication Systems
