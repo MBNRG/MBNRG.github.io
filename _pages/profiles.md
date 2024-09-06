@@ -30,7 +30,8 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p></p>
-    - align: left
+      
+  - align: left
     image: AliRezapour.png
     content: Ali_Rezapour.md
     image_circular: true # crops the image to make it circular
