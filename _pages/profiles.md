@@ -34,7 +34,7 @@ profiles:
       <p></p>
       <p></p>
   - align: left
-    image: AliRezapour.png
+    image: member.png
     content: Ali_Rezapour.md
     image_circular: true # crops the image to make it circular
     more_info: >
