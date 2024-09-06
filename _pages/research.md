@@ -9,8 +9,13 @@ display_categories: [Research Interests]
 horizontal: false
 ---
 
+
 - Cell-Free Massive MIMO systems
+- physical layer security
 - Intelligent reflecting surface (IRS) assisted systems
 - Unmanned Aerial Vehicles (UAV) communication systems
 - Non-Orthogonal Multiple Access (NOMA) communication systems
-- SWIPT systems
+- Simultaneous Wireless Information and Power Transfer (SWIPT) systems
+- Jamming
+- Deep learning
+- Mmwave
