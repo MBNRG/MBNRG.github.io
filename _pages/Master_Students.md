@@ -13,7 +13,7 @@
 
 - **Mehrdad Saljoughi** ([LinkedIn](https://www.linkedin.com/in/mehrdad-saljoughi-a341081aa/))
 
- - Research Area: SWIPT in Cell Free Massive MIMO 
+  - Research Area: SWIPT in Cell Free Massive MIMO 
 
 - **Melika Sadat Eftekharian** ([LinkedIn](http://linkedin.com/in/melika-e-68598b223))
 
@@ -21,16 +21,16 @@
 
 - **Fatemeh Khezrian** ([LinkedIn](https://www.linkedin.com/in/fatemeh-khezrian-23457a197/))
 
- - Research Area: Reinforcement Learning Against Jamming 
+  - Research Area: Reinforcement Learning Against Jamming 
 
 - **Mehdi Nasseri Shoja**  ([LinkedIn](https://www.linkedin.com/in/mehdi-nasseri-shoja))
 
- - Research Area: Simultaneous Transmitting and Reflecting RIS Communications 
+  - Research Area: Simultaneous Transmitting and Reflecting RIS Communications 
 
 - **Kasra Nasrollah** ([LinkedIn](https://www.linkedin.com/in/kasra-nasrollah-232712213)) 
 
- - Research Area: Integrated Sensing and Communication in UAV-based wireless networks 
+  - Research Area: Integrated Sensing and Communication in UAV-based wireless networks 
 
 - **Kimia Hemati**
 
-  - Research Area: Resource Allocation in V2V Networks with Machine Learning (LinkedIn)
+   - Research Area: Resource Allocation in V2V Networks with Machine Learning (LinkedIn)
