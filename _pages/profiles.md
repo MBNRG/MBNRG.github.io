@@ -42,7 +42,7 @@ profiles:
       <p></p>
       <p></p>
   - align: left
-    image: member.png
+    image: MaryamAsadi.png
     content: Maryam_Asadi.md
     image_circular: true # crops the image to make it circular
     more_info: >
