@@ -20,7 +20,7 @@ profiles:
   - align: left
     image: member.png
     content: Fateme_Bozorgi.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
      more_info: >
       <p></p>
       <p></p>
@@ -33,7 +33,14 @@ profiles:
       <p></p>
       <p></p>
       <p></p>
-  
+  - align: left
+    image: member.png
+    content: Ali_Rezapour.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p></p>
+      <p></p>
+      <p></p>
   - align: left
     image: member.png
     content: Maryam_Asadi.md
