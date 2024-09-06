@@ -1,7 +1,8 @@
 # **Ph.D. Students**
 
 - **S. Fatemeh Bozorgi - Ph.D. Student**
--  image: member.png
+-align: right
+    image: member.png
   - Research Area: ``` Physical Layer Security - 6G - UAV Networks ```
   - Webpage: LinkedIn
   - Since: *2020*
