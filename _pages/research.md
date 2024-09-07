@@ -17,7 +17,7 @@ horizontal: false
 </head>
 <body>
     <div class="category">
-        <img src="Cell-Free.png" alt="Category 1 Image">
+        <img src="-Cell-Free.png" alt="Category 1 Image">
         <h2>Cell-Free Massive MIMO systems</h2>
         <p> <br>  - [Optimum Jamming in User-Centric Cell-Free Networks](https://ieeexplore.ieee.org/abstract/document/10012721)
     <br> -  [Integrated Access and Backhaul (IAB) in Cell-Free Massive MIMO Systems](https://ieeexplore.ieee.org/abstract/document/10177930)
