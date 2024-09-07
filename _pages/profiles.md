@@ -25,7 +25,6 @@ profiles:
       <p></p>
       <p></p>
       <p></p>
-  -
         - align: left
     image: AliRezapour.png
     content: Ali_Rezapour.md
