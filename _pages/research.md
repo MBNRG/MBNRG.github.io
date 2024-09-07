@@ -17,7 +17,7 @@ horizontal: false
 </head>
 <body>
     <div class="category">
-        <img src="cell-free.png" alt="Category 1 Image">
+        <img src="Cell-Free.png" alt="Category 1 Image">
         <h2>IRS</h2>
         <p>Intelligent</p>
     </div>
