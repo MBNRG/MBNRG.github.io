@@ -8,7 +8,7 @@ nav_order: 4
 display_categories: [Research Interests]
 ---
 
-<!-- _pages/publications.md -->
+<!-- _pages/.research.md -->
 <div class="Research Area">
 
 - Cell-Free Massive MIMO systems
