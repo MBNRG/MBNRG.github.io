@@ -8,9 +8,6 @@ nav_order: 4
 display_categories: [Research Interests]
 ---
 
-<!-- _pages/.research.md -->
-<div class="Research Area">
-
 - Cell-Free Massive MIMO systems
 <br>  - [Optimum Jamming in User-Centric Cell-Free Networks](https://ieeexplore.ieee.org/abstract/document/10012721)
     <br> -  [Integrated Access and Backhaul (IAB) in Cell-Free Massive MIMO Systems](https://ieeexplore.ieee.org/abstract/document/10177930)
@@ -38,6 +35,4 @@ display_categories: [Research Interests]
 - Deep learning
    <br>[Energy Efficient AP Selection for Cell-Free Massive MIMO Systems: Deep Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/9849036)
     <br>[Deep Reinforcement Learning Based Adaptive Modulation With Outdated CSI](https://ieeexplore.ieee.org/abstract/document/9490648)
-
-</div>
 
