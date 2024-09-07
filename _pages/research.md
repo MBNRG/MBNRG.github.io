@@ -23,7 +23,6 @@ display_categories: [Research Interests]
    ---
   
 - ## Intelligent reflecting surface (IRS) assisted systems
-       <br> - [Secure Beamforming in Multi-User Multi-IRS Millimeter Wave Systems](https://ieeexplore.ieee.org/abstract/document/10032287)
      <br> - [Vertical Beamforming in Intelligent Reflecting Surface-Aided Cognitive Radio Networks](https://ieeexplore.ieee.org/abstract/document/9447800)
   
   ---
