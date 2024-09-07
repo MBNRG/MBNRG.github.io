@@ -17,7 +17,7 @@ horizontal: false
 </head>
 <body>
     <div class="category">
-        <img src="Cell-Free.png" alt="Category 1 Image">
+        <img src="assets/img/Cell-Free.png" alt="Category 1 Image">
         <h2>-Cell-Free Massive MIMO systems</h2>
         <p> papers:</p>
     </div>
