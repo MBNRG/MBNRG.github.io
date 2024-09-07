@@ -9,15 +9,7 @@ nav_order: 2
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-    
-        - align: left
-    image: 
-    content: S_Fatemeh_Bozorgi.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p></p>
-      <p></p>
-      <p></p>
+     
        - align: left
     image: member.png
     content: Hamidreza_Hojjati.md
