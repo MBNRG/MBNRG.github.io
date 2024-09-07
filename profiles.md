@@ -8,7 +8,7 @@ nav: true
 nav_order: 2
 
 profiles:
-  - align: right
+   - align: left
     image: Razavizadeh.png
     content: about_Dr_Razavizadeh.md
     image_circular: true # crops the image to make it circular
