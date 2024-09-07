@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
@@ -28,14 +28,18 @@ nav_order: 6
 ## Convex
 
 
+
+---
+
+## Communication systems I
+
+
+---
+
 # Undergraduate Level
 
 - **Analog Communications Systems (Communication systems I)**
 - **Digital Communications Systems (Communication systems II)**
 - **Computer Networks I**
 - **Communication Circuits Laboratory**
-
----
-
-## Communication systems I
 
