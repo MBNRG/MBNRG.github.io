@@ -11,7 +11,7 @@ horizontal: false
 
 
 - Cell-Free Massive MIMO systems
-    <br>  - [paper](https://ieeexplore.ieee.org/abstract/document/10012721)
+    <br>  - [Optimum Jamming in User-Centric Cell-Free Networks](https://ieeexplore.ieee.org/abstract/document/10012721)
       - ** [paper](https://ieeexplore.ieee.org/abstract/document/10177930)
       - ** [paper](https://ieeexplore.ieee.org/abstract/document/9345873)
 - physical layer security
