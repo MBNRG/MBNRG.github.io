@@ -11,14 +11,15 @@ nav_order: 2
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   
-      align: left
-    image: member.png
-    content: Fatemeh_Bozorgi.md
+     - align: left
+    image: AliRezapour.png
+    content: Ali_Rezapour.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p></p>
       <p></p>
       <p></p>
+
 
 
 ---
