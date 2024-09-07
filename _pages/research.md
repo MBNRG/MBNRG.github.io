@@ -17,8 +17,9 @@ horizontal: false
 - physical layer security
       - ** [paper](https://ieeexplore.ieee.org/abstract/document/10032287/)
       - ** [paper](https://www.sciencedirect.com/science/article/abs/pii/S1874490721001737)
-       - ** [paper](https://link.springer.com/article/10.1007/s11277-016-3865-9)
+      - ** [paper](https://link.springer.com/article/10.1007/s11277-016-3865-9)
 - Intelligent reflecting surface (IRS) assisted systems
+       - ** [3D beamforming in Intelligent Reflecting Surface (IRS)-assisted multi-user cognitive radio networks](https://www.sciencedirect.com/science/article/abs/pii/S1874490722002282)
 - Unmanned Aerial Vehicles (UAV) communication systems
 - Non-Orthogonal Multiple Access (NOMA) communication systems
 - Simultaneous Wireless Information and Power Transfer (SWIPT) systems
