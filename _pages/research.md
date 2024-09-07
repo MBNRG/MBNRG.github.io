@@ -9,7 +9,7 @@ display_categories: [Research Interests]
 horizontal: false
 ---
 
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>Categories with Images and Text</title>
