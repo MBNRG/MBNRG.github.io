@@ -1,3 +1,11 @@
-<header>
-    <img src="222.png">
-</header>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Website Title</title>
+</head>
+<body>
+    <header>
+        <img src="images/your_image.jpg" alt="Your Image Header">
+    </header>
+    </body>
+</html>
