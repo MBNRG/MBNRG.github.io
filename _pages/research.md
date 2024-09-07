@@ -9,19 +9,32 @@ display_categories: [Research Interests]
 horizontal: false
 ---
 
-<div class="category">
-  <h2>Category 1</h2>
-  <div class="image-container">
-    <img src="222.png" alt="Category 1 Image">
-  </div>
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Categories with Images and Text</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="category">
+        <img src="222.png" alt="Category 1 Image">
+        <h2>Category 1</h2>
+        <p>This is the text for category 1.</p>
+    </div>
 
-<div class="category">
-  <h2>Category 2</h2>
-  <div class="image-container">
-    <img src="222.png" alt="Category 2 Image">
-  </div>
-</div>
+    <div class="category">
+        <img src="222.png" alt="Category 2 Image">
+        <h2>Category 2</h2>
+        <p>This is the text for category 2.</p>
+    </div>
+
+    </body>
+</html>
+
+
+
+
+
 - Cell-Free Massive MIMO systems
     <br>  - [Optimum Jamming in User-Centric Cell-Free Networks](https://ieeexplore.ieee.org/abstract/document/10012721)
     <br> -  [Integrated Access and Backhaul (IAB) in Cell-Free Massive MIMO Systems](https://ieeexplore.ieee.org/abstract/document/10177930)
