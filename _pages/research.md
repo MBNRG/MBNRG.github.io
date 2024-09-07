@@ -24,6 +24,9 @@ horizontal: false
      <br> -[Vertical Beamforming in Intelligent Reflecting Surface-Aided Cognitive Radio Networks](https://ieeexplore.ieee.org/abstract/document/9447800)
 - Unmanned Aerial Vehicles (UAV) communication systems
 - Non-Orthogonal Multiple Access (NOMA) communication systems
+-  <br> - [User Clustering and Resource Allocation in Hybrid NOMA-OMA Systems Under Nakagami-m Fading](https://ieeexplore.ieee.org/abstract/document/9751108)
+     <br> -[Secure Beamforming in Multi-User Multi-IRS Millimeter Wave Systems](https://ieeexplore.ieee.org/abstract/document/10032287)
+     <br> -[Vertical Beamforming in Intelligent Reflecting Surface-Aided Cognitive Radio Networks](https://ieeexplore.ieee.org/abstract/document/9447800)
 - Simultaneous Wireless Information and Power Transfer (SWIPT) systems
 - Jamming
      - paper
