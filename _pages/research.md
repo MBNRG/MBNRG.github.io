@@ -12,19 +12,20 @@ display_categories: [Research Interests]
 <br>  - [Optimum Jamming in User-Centric Cell-Free Networks](https://ieeexplore.ieee.org/abstract/document/10012721)
     <br> -  [Integrated Access and Backhaul (IAB) in Cell-Free Massive MIMO Systems](https://ieeexplore.ieee.org/abstract/document/10177930)
     <br>-   [Power Allocation for Downlink Training in Cell-Free Massive MIMO Networks](https://ieeexplore.ieee.org/abstract/document/9345873)
-- physical layer security
+- ## physical layer security
      <br> - [Secure Beamforming in Multi-User Multi-IRS Millimeter Wave Systems](https://ieeexplore.ieee.org/abstract/document/10032287/)
     <br>  - [https://www.sciencedirect.com/science/article/abs/pii/S1874490721001737](https://www.sciencedirect.com/science/article/abs/pii/S1874490721001737)
     <br>  - [https://link.springer.com/article/10.1007/s11277-016-3865-9](https://link.springer.com/article/10.1007/s11277-016-3865-9)
-- Intelligent reflecting surface (IRS) assisted systems
+- ## Intelligent reflecting surface (IRS) assisted systems
       <br> - [3D beamforming in Intelligent Reflecting Surface (IRS)-assisted multi-user cognitive radio networks](https://www.sciencedirect.com/science/article/abs/pii/S1874490722002282)
      <br> -[Secure Beamforming in Multi-User Multi-IRS Millimeter Wave Systems](https://ieeexplore.ieee.org/abstract/document/10032287)
      <br> -[Vertical Beamforming in Intelligent Reflecting Surface-Aided Cognitive Radio Networks](https://ieeexplore.ieee.org/abstract/document/9447800)
-- Unmanned Aerial Vehicles (UAV) communication systems
-- Non-Orthogonal Multiple Access (NOMA) communication systems
+- ## Unmanned Aerial Vehicles (UAV) communication systems
+- ##  Non-Orthogonal Multiple Access (NOMA) communication systems
      <br> -[Optimum Solutions for Weighted Sum-Rate of NOMA and TDMA in Wireless-Powered IoT Networks](https://ieeexplore.ieee.org/document/10190080)
      <br> - [User Clustering and Resource Allocation in Hybrid NOMA-OMA Systems Under Nakagami-m Fading](https://ieeexplore.ieee.org/abstract/document/9751108)
      <br> -[Outage Balancing in Downlink NOMA Over Nakagami-m Fading Channels](https://ieeexplore.ieee.org/abstract/document/9490628/)
+  ##
 - Simultaneous Wireless Information and Power Transfer (SWIPT) systems
      <br> -[AN-aided beamforming for IRS-assisted SWIPT systems](https://www.sciencedirect.com/science/article/abs/pii/S1874490722001203)
   <br> -[Energy Efficient Precoding Design for SWIPT in MIMO Two-Way Relay Networks](https://ieeexplore.ieee.org/abstract/document/7876801)
