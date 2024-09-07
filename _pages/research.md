@@ -18,8 +18,8 @@ horizontal: false
 <body>
     <div class="category">
         <img src="222.png" alt="Category 1 Image">
-        <h2>Category 1</h2>
-        <p>This is the text for category 1.</p>
+        <h2>IRS</h2>
+        <p>Intelligent</p>
     </div>
 
     <div class="category">
