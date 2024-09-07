@@ -9,14 +9,14 @@ display_categories: [Research Interests]
 ---
 
 - ## Cell-Frree Massive MIMO systems
-<br>  - [Optimum Jamming in User-Centric Cell-Free Networks](https://ieeexplore.ieee.org/abstract/document/10012721)
+    <br>  - [Optimum Jamming in User-Centric Cell-Free Networks](https://ieeexplore.ieee.org/abstract/document/10012721)
     <br> -  [Integrated Access and Backhaul (IAB) in Cell-Free Massive MIMO Systems](https://ieeexplore.ieee.org/abstract/document/10177930)
     <br>-   [Power Allocation for Downlink Training in Cell-Free Massive MIMO Networks](https://ieeexplore.ieee.org/abstract/document/9345873)
     
   ---
   
 - ## physical layer security
-     <br> - [Secure Beamforming in Multi-User Multi-IRS Millimeter Wave Systems](https://ieeexplore.ieee.org/abstract/document/10032287/)
+    <br> - [Secure Beamforming in Multi-User Multi-IRS Millimeter Wave Systems](https://ieeexplore.ieee.org/abstract/document/10032287/)
     <br>  - [Secrecy rate maximization in multi-IRS mmWave networks](https://www.sciencedirect.com/science/article/abs/pii/S1874490721001737)
     <br>  - [Enhancement of Physical Layer Security Using Destination Artificial Noise Based on Outage Probability](https://link.springer.com/article/10.1007/s11277-016-3865-9)
   
