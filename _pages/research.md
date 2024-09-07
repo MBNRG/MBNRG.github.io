@@ -12,8 +12,8 @@ horizontal: false
 
 - Cell-Free Massive MIMO systems
     <br>  - [Optimum Jamming in User-Centric Cell-Free Networks](https://ieeexplore.ieee.org/abstract/document/10012721)
-     <br> -  [Integrated Access and Backhaul (IAB) in Cell-Free Massive MIMO Systems](https://ieeexplore.ieee.org/abstract/document/10177930)>>
-      - ** [paper](https://ieeexplore.ieee.org/abstract/document/9345873)
+    <br> -  [Integrated Access and Backhaul (IAB) in Cell-Free Massive MIMO Systems](https://ieeexplore.ieee.org/abstract/document/10177930)
+    <br>-   [paper](https://ieeexplore.ieee.org/abstract/document/9345873)
 - physical layer security
      <br> - ** [paper](https://ieeexplore.ieee.org/abstract/document/10032287/)
       - ** [paper](https://www.sciencedirect.com/science/article/abs/pii/S1874490721001737)
