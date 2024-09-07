@@ -16,7 +16,6 @@ profiles:
     more_info: >
       <p></p>
       <p></p>
-      <p></p>
         - align: left
     image: member.png
     content: S_Fatemeh_Bozorgi.md
