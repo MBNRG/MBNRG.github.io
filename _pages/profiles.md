@@ -4,7 +4,7 @@ permalink: /people/
 title: People
 description: Members of the lab
 nav: true
-nav_order: 2
+nav_order: 3
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
