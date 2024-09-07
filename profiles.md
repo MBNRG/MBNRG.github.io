@@ -11,7 +11,7 @@ profiles:
 
 - align: left
     image: member.png
-    content: S_Fatemeh_Bozorgi.md
+    content: Fatemeh_Bozorgi.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p></p>
