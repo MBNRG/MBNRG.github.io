@@ -25,7 +25,7 @@ profiles:
       <p></p>
       <p></p>
       <p></p>
-   - align: left
+  - align: left
     image: member.png
     content: Master_Students.md
     image_circular: true # crops the image to make it circular
