@@ -24,7 +24,7 @@ display_categories: [Research Interests]
      <br> -[Vertical Beamforming in Intelligent Reflecting Surface-Aided Cognitive Radio Networks](https://ieeexplore.ieee.org/abstract/document/9447800)
   ##
 - Unmanned Aerial Vehicles (UAV) communication systems
-- ##
+ ##
 -  Non-Orthogonal Multiple Access (NOMA) communication systems
      <br> -[Optimum Solutions for Weighted Sum-Rate of NOMA and TDMA in Wireless-Powered IoT Networks](https://ieeexplore.ieee.org/document/10190080)
      <br> - [User Clustering and Resource Allocation in Hybrid NOMA-OMA Systems Under Nakagami-m Fading](https://ieeexplore.ieee.org/abstract/document/9751108)
