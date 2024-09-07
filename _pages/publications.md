@@ -13,10 +13,3 @@ nav_order: 3
 {% bibliography %}
 
 </div>
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p></p>
-    <p></p>
