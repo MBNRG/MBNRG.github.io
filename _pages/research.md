@@ -32,8 +32,8 @@ horizontal: false
   <br> -[Energy Efficient Precoding Design for SWIPT in MIMO Two-Way Relay Networks](https://ieeexplore.ieee.org/abstract/document/7876801)
 - Jamming
      <br> -[Attacking Massive MIMO Cognitive Radio Networks by Optimized Jamming](https://ieeexplore.ieee.org/abstract/document/9542983)
-     - paper
+    <br> -[Direction-based jamming detection and suppression in mmWave massive MIMO networks](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12190)
+  <br> -[A Comparison of TDD and FDD Massive MIMO Systems Against Smart Jamming](https://ieeexplore.ieee.org/abstract/document/9064726/)
 - Deep learning
-     - paper
-- Mmwave
-    - paper
+   <br>[]()
+    <br>[]()
