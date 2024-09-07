@@ -16,13 +16,26 @@ profiles:
       <p></p>
       <p></p>
       <p></p>
-        - align: right
-    image: Razavizadeh.png
-    content: about_Dr_Razavizadeh.md
-    image_circular: true # crops the image to make it circular
+    - align: left
+    image: 
+    content: Past_Master_Students.md
+    image_circular: false # crops the image to make it circular
     more_info: >
       <p></p>
       <p></p>
       <p></p>
-       
+  - align: left
+    image: 
+    content: Past_BSc_Students.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p></p>
+      <p></p>
+      <p></p>
+
+
+
+
 ---
+
+
