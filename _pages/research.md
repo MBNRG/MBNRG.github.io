@@ -17,6 +17,7 @@ horizontal: false
 - Non-Orthogonal Multiple Access (NOMA) communication systems
 - Simultaneous Wireless Information and Power Transfer (SWIPT) systems
 - Jamming
+     - paper
 - Deep learning
      - paper
 - Mmwave
