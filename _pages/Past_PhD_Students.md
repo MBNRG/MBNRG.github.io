@@ -4,7 +4,7 @@
   *(2018 - 2023)*
   
   Thesis: ```Intelligent Reflecting Surface in Cognitive Radio Networks```
-  ![Image one](_pages/Razavizadeh.png)
+  ![Image one](Razavizadeh.png)
 
 - **Ali Mahmoudi**
   *(Co-supervised - 2022)*
