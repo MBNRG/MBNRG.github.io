@@ -28,7 +28,10 @@ horizontal: false
      <br> - [User Clustering and Resource Allocation in Hybrid NOMA-OMA Systems Under Nakagami-m Fading](https://ieeexplore.ieee.org/abstract/document/9751108)
      <br> -[Outage Balancing in Downlink NOMA Over Nakagami-m Fading Channels](https://ieeexplore.ieee.org/abstract/document/9490628/)
 - Simultaneous Wireless Information and Power Transfer (SWIPT) systems
+     <br> -[AN-aided beamforming for IRS-assisted SWIPT systems](https://www.sciencedirect.com/science/article/abs/pii/S1874490722001203)
+  <br> -[Energy Efficient Precoding Design for SWIPT in MIMO Two-Way Relay Networks](https://ieeexplore.ieee.org/abstract/document/7876801)
 - Jamming
+     <br> -[Attacking Massive MIMO Cognitive Radio Networks by Optimized Jamming](https://ieeexplore.ieee.org/abstract/document/9542983)
      - paper
 - Deep learning
      - paper
