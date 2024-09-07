@@ -25,6 +25,22 @@ profiles:
       <p></p>
       <p></p>
       <p></p>
+      - align: right
+    image: Razavizadeh.png
+    content: about_Dr_Razavizadeh.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p></p>
+      <p></p>
+      <p></p>
+        - align: left
+    image: member.png
+    content: S_Fatemeh_Bozorgi.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p></p>
+      <p></p>
+      <p></p>
        - align: left
     image: member.png
     content: Hamidreza_Hojjati.md
