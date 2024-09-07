@@ -6,7 +6,6 @@ description: Wireless Communications - Signal Processing - MIMO - Physical Layer
 nav: true
 nav_order: 4
 display_categories: [Research Interests]
-horizontal: false
 ---
 
 <!-- _pages/publications.md -->
