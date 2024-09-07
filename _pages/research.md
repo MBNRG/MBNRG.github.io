@@ -8,7 +8,20 @@ nav_order: 4
 display_categories: [Research Interests]
 horizontal: false
 ---
-<img src="222.png">
+
+<div class="category">
+  <h2>Category 1</h2>
+  <div class="image-container">
+    <img src="222.png" alt="Category 1 Image">
+  </div>
+</div>
+
+<div class="category">
+  <h2>Category 2</h2>
+  <div class="image-container">
+    <img src="222.png" alt="Category 2 Image">
+  </div>
+</div>
 - Cell-Free Massive MIMO systems
     <br>  - [Optimum Jamming in User-Centric Cell-Free Networks](https://ieeexplore.ieee.org/abstract/document/10012721)
     <br> -  [Integrated Access and Backhaul (IAB) in Cell-Free Massive MIMO Systems](https://ieeexplore.ieee.org/abstract/document/10177930)
