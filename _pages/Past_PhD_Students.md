@@ -4,6 +4,7 @@
   *(2018 - 2023)*
   
   Thesis: ```Intelligent Reflecting Surface in Cognitive Radio Networks```
+  
 
 - **Ali Mahmoudi**
   *(Co-supervised - 2022)*
