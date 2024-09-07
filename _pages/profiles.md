@@ -17,14 +17,15 @@ profiles:
       <p></p>
       <p></p>
       <p></p>
-      - align: left
+   - align: left
     image: member.png
-    content: Fatemeh_Bozorgi.md
+    content: Ali_Rezapour.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p></p>
       <p></p>
       <p></p>
+
 
       
     
