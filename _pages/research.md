@@ -35,5 +35,5 @@ horizontal: false
     <br> -[Direction-based jamming detection and suppression in mmWave massive MIMO networks](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12190)
   <br> -[A Comparison of TDD and FDD Massive MIMO Systems Against Smart Jamming](https://ieeexplore.ieee.org/abstract/document/9064726/)
 - Deep learning
-   <br>[]()
-    <br>[]()
+   <br>[Energy Efficient AP Selection for Cell-Free Massive MIMO Systems: Deep Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/9849036)
+    <br>[Deep Reinforcement Learning Based Adaptive Modulation With Outdated CSI](https://ieeexplore.ieee.org/abstract/document/9490648)
