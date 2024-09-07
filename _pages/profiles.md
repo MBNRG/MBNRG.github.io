@@ -19,7 +19,7 @@ profiles:
       <p></p>
   - align: left
     image: 
-    content: PhD_Students_Students.md
+    content: PhD_Students.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p></p>
