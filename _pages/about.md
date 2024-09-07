@@ -4,13 +4,14 @@ title: About
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
-profile:
-  align: center
-  image: Logo.png
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p></p>
-    <p></p>
+
+
+    <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.desc_title }}</h1>
+    <h5 class="post-description">{{ page.description }}</h5>
+  </header>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
