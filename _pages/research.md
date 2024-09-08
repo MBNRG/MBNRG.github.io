@@ -8,7 +8,7 @@ nav_order: 4
 display_categories: [Research Interests]
 ---
 
-- ## Cell-Free Massive MIMO systems
+- ![image IRS](IRSIRS.png) ## Cell-Free Massive MIMO systems
     <br>  - [Optimum Jamming in User-Centric Cell-Free Networks](https://ieeexplore.ieee.org/abstract/document/10012721)
     <br> -  [Integrated Access and Backhaul (IAB) in Cell-Free Massive MIMO Systems](https://ieeexplore.ieee.org/abstract/document/10177930)
     <br>-   [Power Allocation for Downlink Training in Cell-Free Massive MIMO Networks](https://ieeexplore.ieee.org/abstract/document/9345873)
