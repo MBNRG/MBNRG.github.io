@@ -16,7 +16,7 @@ display_categories: [Research Interests]
   ---
   
 - ## physical layer security
-  <img src=IRSIRS.png"
+  <img src=IRSIRS.png">
    ![image IRS](IRSIRS.png) <br> - [Secure Beamforming in Multi-User Multi-IRS Millimeter Wave Systems](https://ieeexplore.ieee.org/abstract/document/10032287/)
     <br>  - [Secrecy rate maximization in multi-IRS mmWave networks](https://www.sciencedirect.com/science/article/abs/pii/S1874490721001737)
     <br>  - [Enhancement of Physical Layer Security Using Destination Artificial Noise Based on Outage Probability](https://link.springer.com/article/10.1007/s11277-016-3865-9)
@@ -24,7 +24,7 @@ display_categories: [Research Interests]
    ---
   
 - ## Intelligent reflecting surface (IRS) assisted systems
-  <img src=IRSIRS.png"
+  <img src=IRSIRS.png">
   <br> - [3D beamforming in Intelligent Reflecting Surface (IRS)-assisted multi-user cognitive radio networks](https://www.sciencedirect.com/science/article/abs/pii/S1874490722002282)
      <br> - [Vertical Beamforming in Intelligent Reflecting Surface-Aided Cognitive Radio Networks](https://ieeexplore.ieee.org/abstract/document/9447800)
    <br> -[AN-aided beamforming for IRS-assisted SWIPT systems](https://www.sciencedirect.com/science/article/abs/pii/S1874490722001203)
