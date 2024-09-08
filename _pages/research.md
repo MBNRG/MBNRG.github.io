@@ -24,8 +24,7 @@ display_categories: [Research Interests]
    ---
   
 - ## Intelligent reflecting surface (IRS) assisted systems
-  <img src=IRSIRS.png">
-  <br> - [3D beamforming in Intelligent Reflecting Surface (IRS)-assisted multi-user cognitive radio networks](https://www.sciencedirect.com/science/article/abs/pii/S1874490722002282)
+   <br> - [3D beamforming in Intelligent Reflecting Surface (IRS)-assisted multi-user cognitive radio networks](https://www.sciencedirect.com/science/article/abs/pii/S1874490722002282)
      <br> - [Vertical Beamforming in Intelligent Reflecting Surface-Aided Cognitive Radio Networks](https://ieeexplore.ieee.org/abstract/document/9447800)
    <br> -[AN-aided beamforming for IRS-assisted SWIPT systems](https://www.sciencedirect.com/science/article/abs/pii/S1874490722001203)
   
