@@ -11,6 +11,7 @@ display_categories: [Research Interests]
 -  ## Cell-Free Massive MIMO systems
 
 -  ![IRSIRS](https://github.com/user-attachments/assets/d1449203-520c-4585-b678-b0a9a6536035)
+  <img src="![IRSIRS]" height="100" width="80">
 
  <br>  - [Optimum Jamming in User-Centric Cell-Free Networks](https://ieeexplore.ieee.org/abstract/document/10012721)
     <br> -  [Integrated Access and Backhaul (IAB) in Cell-Free Massive MIMO Systems](https://ieeexplore.ieee.org/abstract/document/10177930)
