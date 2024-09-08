@@ -9,7 +9,9 @@ display_categories: [Research Interests]
 ---
 
 -  ## Cell-Free Massive MIMO systems
- ![IRSIRS](https://github.com/user-attachments/assets/9e8c7147-c519-43df-a0a5-354315ce1a60)
+
+-  ![IRSIRS](https://github.com/user-attachments/assets/d1449203-520c-4585-b678-b0a9a6536035)
+
  <br>  - [Optimum Jamming in User-Centric Cell-Free Networks](https://ieeexplore.ieee.org/abstract/document/10012721)
     <br> -  [Integrated Access and Backhaul (IAB) in Cell-Free Massive MIMO Systems](https://ieeexplore.ieee.org/abstract/document/10177930)
     <br>-   [Power Allocation for Downlink Training in Cell-Free Massive MIMO Networks](https://ieeexplore.ieee.org/abstract/document/9345873)
