@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Welcome to our new website! :sparkles: 
+Welcome to our website! :sparkles: 
