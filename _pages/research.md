@@ -44,6 +44,7 @@ display_categories: [Research Interests]
     <br> <style="margin-bottom: 20px;">
       <br> <style="margin-bottom: 20px;">
       <br> <style="margin-bottom: 20px;">
+      <br> <style="margin-bottom: 20px;">
     </p>
  
  ---
