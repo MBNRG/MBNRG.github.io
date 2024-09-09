@@ -19,7 +19,15 @@ display_categories: [Research Interests]
    
   ---
   
-- <img src="![physical](https://github.com/user-attachments/assets/014f2312-d7e3-4358-be70-6eb3e4caab9d)" style="width: 110px; height: 90px;">  { ## physical layer security
+<p>  
+ <img src="![physical](https://github.com/user-attachments/assets/014f2312-d7e3-4358-be70-6eb3e4caab9d)" align="left" width="200" height="200"><span>  <p><b> -Physical layer security</b></p></span> 
+    <br>  - <span class="ban2"><a href="https://ieeexplore.ieee.org/abstract/document/10177930">Integrated Access and Backhaul (IAB) in Cell-Free Massive MIMO Systems</a></span>
+    </p>
+     <br>  - <span class="ban2"><a href="https://ieeexplore.ieee.org/abstract/document/10012721">Optimum Jamming in User-Centric Cell-Free Networks</a></span>
+    </p>
+    <br>  - <span class="ban2"><a href="https://ieeexplore.ieee.org/abstract/document/9849036">Energy Efficient AP Selection for Cell-Free Massive MIMO Systems: Deep Reinforcement Learning Approach</a></span>
+    </p>
+   
   <br> - [Secure Beamforming in Multi-User Multi-IRS Millimeter Wave Systems](https://ieeexplore.ieee.org/abstract/document/10032287/)
     <br>  - [Secrecy rate maximization in multi-IRS mmWave networks](https://www.sciencedirect.com/science/article/abs/pii/S1874490721001737)
     <br>  - [Enhancement of Physical Layer Security Using Destination Artificial Noise Based on Outage Probability](https://link.springer.com/article/10.1007/s11277-016-3865-9)}
