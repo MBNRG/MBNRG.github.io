@@ -9,7 +9,7 @@ display_categories: [Research Interests]
 ---
 
 
-<div>
+- <div>
   <img src="https://github.com/user-attachments/assets/d1449203-520c-4585-b678-b0a9a6536035" style="width: 110px; height: 90px;">  
     <p> Cell-Free Massive MIMO systems </p>
     <p> <br>  - [Optimum Jamming in User-Centric Cell-Free Networks](https://ieeexplore.ieee.org/abstract/document/10012721) </p>
