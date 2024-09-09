@@ -20,7 +20,7 @@ display_categories: [Research Interests]
   ---
   
 <p>  
- <img src="![physical](https://github.com/user-attachments/assets/014f2312-d7e3-4358-be70-6eb3e4caab9d)" align="left" width="200" height="200"><span>  <p><b> -Physical layer security</b></p></span> 
+ <img src="![physical](https://github.com/user-attachments/assets/014f2312-d7e3-4358-be70-6eb3e4caab9d)" align="left" width="200" height="200"><span>  <p><b> -Physical Layer Security</b></p></span> 
     <br>  - <span class="ban2"><a href="https://ieeexplore.ieee.org/abstract/document/10177930">Integrated Access and Backhaul (IAB) in Cell-Free Massive MIMO Systems</a></span>
     </p>
      <br>  - <span class="ban2"><a href="https://ieeexplore.ieee.org/abstract/document/10012721">Optimum Jamming in User-Centric Cell-Free Networks</a></span>
