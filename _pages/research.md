@@ -14,7 +14,7 @@ display_categories: [Research Interests]
     </p>
      <br>  - <span class="ban2"><a href="[Optimum Jamming in User-Centric Cell-Free Networks">Optimum Jamming in User-Centric Cell-Free Networks</a></span>
     </p>
-    <br>  - <span class="ban2"><a href="[[Optimum Jamming in User-Centric Cell-Free Networks">Optimum Jamming in User-Centric Cell-Free Networks</a></span>
+    <br>  - <span class="ban2"><a href="https://ieeexplore.ieee.org/abstract/document/9849036">Energy Efficient AP Selection for Cell-Free Massive MIMO Systems: Deep Reinforcement Learning Approach</a></span>
     </p>
    
   ---
