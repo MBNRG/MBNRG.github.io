@@ -8,10 +8,14 @@ nav_order: 4
 display_categories: [Research Interests]
 ---
 
-- <img src="https://github.com/user-attachments/assets/d1449203-520c-4585-b678-b0a9a6536035" style="width: 110px; height: 90px;">   Cell-Free Massive MIMO systems
-    <br>  - [Optimum Jamming in User-Centric Cell-Free Networks](https://ieeexplore.ieee.org/abstract/document/10012721)
-    <br> -  [Integrated Access and Backhaul (IAB) in Cell-Free Massive MIMO Systems](https://ieeexplore.ieee.org/abstract/document/10177930)
-    <br>-   [Power Allocation for Downlink Training in Cell-Free Massive MIMO Networks](https://ieeexplore.ieee.org/abstract/document/9345873)
+
+- <div>
+  <img src="https://github.com/user-attachments/assets/d1449203-520c-4585-b678-b0a9a6536035" style="width: 110px; height: 90px;">  
+    <p> Cell-Free Massive MIMO systems </p>
+    <p> <br>  - [Optimum Jamming in User-Centric Cell-Free Networks](https://ieeexplore.ieee.org/abstract/document/10012721) </p>
+    <p> <br> -  [Integrated Access and Backhaul (IAB) in Cell-Free Massive MIMO Systems](https://ieeexplore.ieee.org/abstract/document/10177930) </p>
+    <p>  <br>-   [Power Allocation for Downlink Training in Cell-Free Massive MIMO Networks](https://ieeexplore.ieee.org/abstract/document/9345873) </p>
+</div>
     
   ---
   
