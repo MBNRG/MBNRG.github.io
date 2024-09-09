@@ -66,9 +66,14 @@ display_categories: [Research Interests]
     </p>
 
     ---
+
+     <p>
+  <img src="https://github.com/user-attachments/assets/c11ac0a6-c0c5-43f2-98c2-53d811ba37de" align="left" width="175" height="175"><span>  <p><b> -Deep learning</b></p></span> 
+    <br>  - <span class="ban2"><a href="https://ieeexplore.ieee.org/abstract/document/9849036">Energy Efficient AP Selection for Cell-Free Massive MIMO Systems: Deep Reinforcement Learning Approach</a>
+     <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/9490648">Deep Reinforcement Learning Based Adaptive Modulation With Outdated CSI</a></span>
+    </p>
+
+    ---
     
-    
-    - ### Deep learning
-   <br>[Energy Efficient AP Selection for Cell-Free Massive MIMO Systems: Deep Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/9849036)
-    <br>[Deep Reinforcement Learning Based Adaptive Modulation With Outdated CSI](https://ieeexplore.ieee.org/abstract/document/9490648)
+  
 
