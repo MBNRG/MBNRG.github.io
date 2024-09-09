@@ -10,7 +10,7 @@ display_categories: [Research Interests]
 
 <p>
   <img src="https://github.com/user-attachments/assets/d1449203-520c-4585-b678-b0a9a6536035" align="left" width="200" height="200"><span> - <p><b> Cell-Free Massive MIMO systems</b></p></span> 
-    <br>  - <span class="ban2">kjih</span>
+    <br>  - <span class="ban2">[3D beamforming in Intelligent Reflecting Surface (IRS)-assisted multi-user cognitive radio networks](https://www.sciencedirect.com/science/article/abs/pii/S1874490722002282)</span>
     </p>
    
   ---
