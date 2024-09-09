@@ -1,7 +1,8 @@
-# **S. Mohammad Razavizadeh, Head of MBNRG, SMIEEE**
-- **Department:** School of Electrical Engineering 
-- **University:** Iran University of Science & Technology (IUST)
-- **Location:** Tehran, Iran
+# **S. Mohammad Razavizadeh**
+**Head of MBNRG, SMIEEE**
+- School of Electrical Engineering 
+- Iran University of Science & Technology (IUST)
+- Tehran, Iran
 - **Tel:** +98-21-7322-5736 
 - **Email:** [smrazavi@iust.ac.ir](mailto:smrazavi@iust.ac.ir) - [smrazavi@ieee.org](mailto:smrazavi@ieee.org)
 - **Research Area:** [Scientometrics](http://scimet.iust.ac.ir/SeyedMohammad_Razavizadeh?en)
