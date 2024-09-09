@@ -39,8 +39,10 @@ display_categories: [Research Interests]
 
 
   <p>
-  <img src="https://github.com/user-attachments/assets/9efe5ce6-a2f7-4b5f-a607-c21e25cc71f8" align="left" width="175" height="175"><span>  <p><b> -Unmanned Aerial Vehicles (UAV) communication systems</b></p></span> 
+  <img src="https://github.com/user-attachments/assets/b91fb33d-54fc-4fa2-99c0-2c543ea09ab0
+  " align="left" width="175" height="175"><span>  <p><b> -Unmanned Aerial Vehicles (UAV) communication systems</b></p></span> 
     <br>  - <span class="ban2"><a href="https://ieeexplore.ieee.org/abstract/document/10614380">Integrated Access and Backhaul (IAB) in Low Altitude Platforms</a>
+    <br>
     </p>
  
  ---
