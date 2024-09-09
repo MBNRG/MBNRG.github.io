@@ -9,11 +9,9 @@ display_categories: [Research Interests]
 ---
 
 <p>
-  <img src="https://github.com/user-attachments/assets/1cb9e01a-3052-4d58-8f3d-9f621fc0a52c" align="left" width="200" height="200"><span>  <p><b> -Cell-Free Massive MIMO systems</b></p></span> 
+  <img src="https://github.com/user-attachments/assets/1cb9e01a-3052-4d58-8f3d-9f621fc0a52c" align="left" width="175" height="175"><span>  <p><b> -Cell-Free Massive MIMO systems</b></p></span> 
     <br>  - <span class="ban2"><a href="https://ieeexplore.ieee.org/abstract/document/10177930">Integrated Access and Backhaul (IAB) in Cell-Free Massive MIMO Systems</a>
-    </p>
      <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/10012721">Optimum Jamming in User-Centric Cell-Free Networks</a>
-    </p>
     <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/9849036">Energy Efficient AP Selection for Cell-Free Massive MIMO Systems: Deep Reinforcement Learning Approach</a></span>
     </p>
    
