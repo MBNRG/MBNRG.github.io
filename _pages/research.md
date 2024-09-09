@@ -9,7 +9,7 @@ display_categories: [Research Interests]
 ---
 
 <p>
-  <img src="https://github.com/user-attachments/assets/d1449203-520c-4585-b678-b0a9a6536035" align="left"><span>Cell-Free Massive MIMO systems</span> 
+  <img src="https://github.com/user-attachments/assets/d1449203-520c-4585-b678-b0a9a6536035" align="left" width="200" height="200"><span>Cell-Free Massive MIMO systems</span> 
     <br>  - <span class="ban2">kjih</span>
     </p>
    
