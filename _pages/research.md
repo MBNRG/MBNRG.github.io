@@ -58,26 +58,15 @@ display_categories: [Research Interests]
      ---
      
       <p>
-  <img src="https://github.com/user-attachments/assets/1cb9e01a-3052-4d58-8f3d-9f621fc0a52c" align="left" width="175" height="175"><span>  <p><b> -Non-Orthogonal Multiple Access (NOMA) communication systems</b></p></span> 
-    <br>  - <span class="ban2"><a href="https://ieeexplore.ieee.org/document/10190080">Optimum Solutions for Weighted Sum-Rate of NOMA and TDMA in Wireless-Powered IoT Networks</a>
-     <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/9751108">User Clustering and Resource Allocation in Hybrid NOMA-OMA Systems Under Nakagami-m Fading</a>
+  <img src="https://github.com/user-attachments/assets/1cb9e01a-3052-4d58-8f3d-9f621fc0a52c" align="left" width="175" height="175"><span>  <p><b> -Simultaneous Wireless Information and Power Transfer (SWIPT) systems</b></p></span> 
+    <br>  - <span class="ban2"><a href="https://www.sciencedirect.com/science/article/abs/pii/S1874490722001203">AN-aided beamforming for IRS-assisted SWIPT systems</a>
+     <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/7876801">Energy Efficient Precoding Design for SWIPT in MIMO Two-Way Relay Networks</a>
     <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/9490628/">Outage Balancing in Downlink NOMA Over Nakagami-m Fading Channels</a></span>
     </p>
      ---
-     
-
-- ## Simultaneous Wireless Information and Power Transfer (SWIPT) systems
-     <br> -[AN-aided beamforming for IRS-assisted SWIPT systems](https://www.sciencedirect.com/science/article/abs/pii/S1874490722001203)
-  <br> -[Energy Efficient Precoding Design for SWIPT in MIMO Two-Way Relay Networks](https://ieeexplore.ieee.org/abstract/document/7876801)
-  
-  ---
-- ## Jamming
-     <br> -[Attacking Massive MIMO Cognitive Radio Networks by Optimized Jamming](https://ieeexplore.ieee.org/abstract/document/9542983)
-    <br> -[Direction-based jamming detection and suppression in mmWave massive MIMO networks](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12190)
-  <br> -[A Comparison of TDD and FDD Massive MIMO Systems Against Smart Jamming](https://ieeexplore.ieee.org/abstract/document/9064726/)
-  
-  ---
-- ### Deep learning
+    
+    
+    - ### Deep learning
    <br>[Energy Efficient AP Selection for Cell-Free Massive MIMO Systems: Deep Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/9849036)
     <br>[Deep Reinforcement Learning Based Adaptive Modulation With Outdated CSI](https://ieeexplore.ieee.org/abstract/document/9490648)
 
