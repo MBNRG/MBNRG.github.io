@@ -29,17 +29,16 @@ display_categories: [Research Interests]
   
 
    <p>
-  <img src="https://github.com/user-attachments/assets/75dfb6f4-241e-4f11-91bb-6fc0e7945fe2" align="left" width="175" height="175"><span>  <p><b> -Physical Layer Security</b></p></span> 
-    <br>  - <span class="ban2"><a href="https://ieeexplore.ieee.org/abstract/document/9542983">Attacking Massive MIMO Cognitive Radio Networks by Optimized Jamming</a>
-     <br>  - <a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12190">Direction-based jamming detection and suppression in mmWave massive MIMO networks</a>
-    <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/9064726/">A Comparison of TDD and FDD Massive MIMO Systems Against Smart Jamming</a></span>
+  <img src="https://github.com/user-attachments/assets/75dfb6f4-241e-4f11-91bb-6fc0e7945fe2" align="left" width="175" height="175"><span>  <p><b> -Intelligent reflecting surface (IRS) assisted systems</b></p></span> 
+    <br>  - <span class="ban2"><a href="https://www.sciencedirect.com/science/article/abs/pii/S1874490722002282">3D beamforming in Intelligent Reflecting Surface (IRS)-assisted multi-user cognitive radio networks</a>
+     <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/9447800">Vertical Beamforming in Intelligent Reflecting Surface-Aided Cognitive Radio Networks</a>
+    <br>  - <a href="https://www.sciencedirect.com/science/article/abs/pii/S1874490722001203">AN-aided beamforming for IRS-assisted SWIPT systems</a></span>
     </p>
    
   ---
 
   
-- ## Intelligent reflecting surface (IRS) assisted systems
-   <br> - [3D beamforming in Intelligent Reflecting Surface (IRS)-assisted multi-user cognitive radio networks](https://www.sciencedirect.com/science/article/abs/pii/S1874490722002282)
+
      <br> - [Vertical Beamforming in Intelligent Reflecting Surface-Aided Cognitive Radio Networks](https://ieeexplore.ieee.org/abstract/document/9447800)
    <br> -[AN-aided beamforming for IRS-assisted SWIPT systems](https://www.sciencedirect.com/science/article/abs/pii/S1874490722001203)
   
