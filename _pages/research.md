@@ -9,20 +9,20 @@ display_categories: [Research Interests]
 ---
 
 <p>
-  <img src="https://github.com/user-attachments/assets/1cb9e01a-3052-4d58-8f3d-9f621fc0a52c" align="left" width="175" height="175"><span>  <p><b> &nbsp; -Cell-Free Massive MIMO systems</b></p></span> 
-    <br>  <span class="ban2"><a href="https://ieeexplore.ieee.org/abstract/document/10177930">  &nbsp;  -Integrated Access and Backhaul (IAB) in Cell-Free Massive MIMO Systems</a>
-     <br>   <a href="https://ieeexplore.ieee.org/abstract/document/10012721">  &nbsp; -Optimum Jamming in User-Centric Cell-Free Networks</a>
-    <br>   <a href="https://ieeexplore.ieee.org/abstract/document/9849036">  &nbsp; -Energy Efficient AP Selection for Cell-Free Massive MIMO Systems: Deep Reinforcement Learning Approach</a></span>
+  <img src="https://github.com/user-attachments/assets/1cb9e01a-3052-4d58-8f3d-9f621fc0a52c" align="left" width="175" height="175"><span>  <p><b> &nbsp; Cell-Free Massive MIMO systems</b></p></span> 
+    <br>  <span class="ban2"><a href="https://ieeexplore.ieee.org/abstract/document/10177930">  &nbsp;  Integrated Access and Backhaul (IAB) in Cell-Free Massive MIMO Systems</a>
+     <br>   <a href="https://ieeexplore.ieee.org/abstract/document/10012721">  &nbsp; Optimum Jamming in User-Centric Cell-Free Networks</a>
+    <br>   <a href="https://ieeexplore.ieee.org/abstract/document/9849036">  &nbsp; Energy Efficient AP Selection for Cell-Free Massive MIMO Systems: Deep Reinforcement Learning Approach</a></span>
     </p>
    
   ---
 
 
   <p>
-  <img src="https://github.com/user-attachments/assets/75dfb6f4-241e-4f11-91bb-6fc0e7945fe2" align="left" width="175" height="175"><span>  <p><b> -Physical Layer Security</b></p></span> 
-    <br>  - <span class="ban2"><a href="https://ieeexplore.ieee.org/abstract/document/9542983">Attacking Massive MIMO Cognitive Radio Networks by Optimized Jamming</a>
-     <br>  - <a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12190">Direction-based jamming detection and suppression in mmWave massive MIMO networks</a>
-    <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/9064726/">A Comparison of TDD and FDD Massive MIMO Systems Against Smart Jamming</a></span>
+  <img src="https://github.com/user-attachments/assets/75dfb6f4-241e-4f11-91bb-6fc0e7945fe2" align="left" width="175" height="175"><span>  <p><b> Physical Layer Security</b></p></span> 
+    <br>   <span class="ban2"><a href="https://ieeexplore.ieee.org/abstract/document/9542983">  &nbsp; Attacking Massive MIMO Cognitive Radio Networks by Optimized Jamming</a>
+     <br>   <a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12190">  &nbsp; Direction-based jamming detection and suppression in mmWave massive MIMO networks</a>
+    <br>   <a href="https://ieeexplore.ieee.org/abstract/document/9064726/">  &nbsp; A Comparison of TDD and FDD Massive MIMO Systems Against Smart Jamming</a></span>
     </p>
    
   ---
