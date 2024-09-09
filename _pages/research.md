@@ -54,9 +54,9 @@ display_categories: [Research Interests]
     <br>  - <span class="ban2"><a href="https://ieeexplore.ieee.org/document/10190080">Optimum Solutions for Weighted Sum-Rate of NOMA and TDMA in Wireless-Powered IoT Networks</a>
      <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/9751108">User Clustering and Resource Allocation in Hybrid NOMA-OMA Systems Under Nakagami-m Fading</a>
     <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/9490628/">Outage Balancing in Downlink NOMA Over Nakagami-m Fading Channels</a></span>
-    </p>
-
-   ---
+   </p>
+   
+  ---
      
       <p>
   <img src="https://github.com/user-attachments/assets/c11ac0a6-c0c5-43f2-98c2-53d811ba37de" align="left" width="175" height="175"><span>  <p><b> -Simultaneous Wireless Information and Power Transfer (SWIPT) systems</b></p></span> 
