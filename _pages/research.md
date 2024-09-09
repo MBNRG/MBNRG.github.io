@@ -18,10 +18,10 @@ display_categories: [Research Interests]
     
   ---
   
-- ## physical layer security
+- <img src="https://github.com/user-attachments/assets/d1449203-520c-4585-b678-b0a9a6536035" style="width: 110px; height: 90px;">  { ## physical layer security
   <br> - [Secure Beamforming in Multi-User Multi-IRS Millimeter Wave Systems](https://ieeexplore.ieee.org/abstract/document/10032287/)
     <br>  - [Secrecy rate maximization in multi-IRS mmWave networks](https://www.sciencedirect.com/science/article/abs/pii/S1874490721001737)
-    <br>  - [Enhancement of Physical Layer Security Using Destination Artificial Noise Based on Outage Probability](https://link.springer.com/article/10.1007/s11277-016-3865-9)
+    <br>  - [Enhancement of Physical Layer Security Using Destination Artificial Noise Based on Outage Probability](https://link.springer.com/article/10.1007/s11277-016-3865-9)}
   
    ---
   
