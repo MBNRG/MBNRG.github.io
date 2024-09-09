@@ -57,6 +57,7 @@ display_categories: [Research Interests]
    </p>
    
   ---
+
      
       <p>
   <img src="https://github.com/user-attachments/assets/c11ac0a6-c0c5-43f2-98c2-53d811ba37de" align="left" width="175" height="175"><span>  <p><b> -Simultaneous Wireless Information and Power Transfer (SWIPT) systems</b></p></span> 
@@ -66,6 +67,7 @@ display_categories: [Research Interests]
     </p>
    
   ---
+
 
      <p>
   <img src="https://github.com/user-attachments/assets/c11ac0a6-c0c5-43f2-98c2-53d811ba37de" align="left" width="175" height="175"><span>  <p><b> -Deep learning</b></p></span> 
