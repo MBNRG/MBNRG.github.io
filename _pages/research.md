@@ -9,7 +9,7 @@ display_categories: [Research Interests]
 ---
 
 <p>
-  <img src="https://github.com/user-attachments/assets/d1449203-520c-4585-b678-b0a9a6536035" align="left" width="200" height="200"><span> - <p><b> Cell-Free Massive MIMO systems</b></p></span> 
+  <img src="![cellfree](https://github.com/user-attachments/assets/1cb9e01a-3052-4d58-8f3d-9f621fc0a52c)" align="left" width="200" height="200"><span> - <p><b> Cell-Free Massive MIMO systems</b></p></span> 
     <br>  - <span class="ban2"><a href="https://www.sciencedirect.com/science/article/abs/pii/S1874490722002282">3D beamforming in Intelligent Reflecting Surface (IRS)-assisted multi-user cognitive radio networks</a></span>
     </p>
    
