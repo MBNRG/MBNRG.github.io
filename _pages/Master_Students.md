@@ -7,17 +7,17 @@
     <br>  - <b>Since</b>: ????  </span>
     </p>
         <p>
-  <img src="https://github.com/user-attachments/assets/3f0e89c7-f876-489b-ad7d-180885dc46f0" class="circular-image" align="left" width="130" height="130"><span>  <p><b> **S. Fatemeh Bozorgi - Ph.D. Student**</b></p></span> 
-    <br>  <span class="ban2"> - <b> Research Area </b>: Physical Layer Security - 6G - UAV Networks
-     <br>  - <b>Webpage</b>: LinkedIn
-    <br>  - <b>Since</b>: 2020  </span>
+  <img src="https://github.com/user-attachments/assets/0b4a7a88-311e-4a8f-8d0c-267f3d9f1076" alt="Circular Image" style="border-radius: 50%;" align="left" width="130" height="130"><span>  <p><b> **Alireza Navi **</b></p></span> 
+    <br>  <span class="ban2"> - <b> Research Area </b>:IRS in UAV-Based Wireless Networks 
+    <br> - <a href="https://www.linkedin.com/in/alirezanavi">   Webpage: LinkedIn </a>
+    <br>  - <b>Since</b>: ????  </span>
     </p>
 
 <p>
-  <img src="https://github.com/user-attachments/assets/caae526a-db29-415a-a286-5fbd36a38aef" alt="Circular Image" style="border-radius: 50%;" align="left" width="125" height="125"><span>  <p><b> **Hamidreza Hojati - Ph.D. Student**</b></p></span> 
-    <br>  <span class="ban2"> - <b> Research Area </b>:IRS - UAV Communications - 6G Networks  
-    <br> - <a href="https://www.linkedin.com/in/hamidreza-hojjati-a992641b1">   Webpage: LinkedIn </a>
-    <br>  - <b>Since</b>: 2021  </span>
+  <img src="https://github.com/user-attachments/assets/0b4a7a88-311e-4a8f-8d0c-267f3d9f1076" alt="Circular Image" style="border-radius: 50%;" align="left" width="130" height="130"><span>  <p><b> **Alireza Navi **</b></p></span> 
+    <br>  <span class="ban2"> - <b> Research Area </b>:IRS in UAV-Based Wireless Networks 
+    <br> - <a href="https://www.linkedin.com/in/alirezanavi">   Webpage: LinkedIn </a>
+    <br>  - <b>Since</b>: ????  </span>
     </p>
 
 <p>
