@@ -1,4 +1,4 @@
-![MaryamAsadi](https://github.com/user-attachments/assets/cd47e27f-a52f-4d02-ba6a-ea1bd7a48e58)# **Ph.D. Students**
+# **Ph.D. Students**
 
 
 <p>
