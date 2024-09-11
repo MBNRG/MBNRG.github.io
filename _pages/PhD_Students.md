@@ -14,17 +14,14 @@
      <br>  - <b>Webpage</b>: [LinkedIn](https://www.linkedin.com/in/hamidreza-hojjati-a992641b1)</a>
     <br>  - <b>Since</b>: 2021  </a></span>
     </p>
-    
 
-- **Hamidreza Hojati - Ph.D. Student**
-  - Research Area: ```IRS - UAV Communications - 6G Networks```
-  - Webpage: [LinkedIn](https://www.linkedin.com/in/hamidreza-hojjati-a992641b1)
-  - Since: *2021*
+    <p>
+  <img src="https://github.com/user-attachments/assets/be17bb53-8b33-4d5b-8936-e81fce60b93c" align="left" width="120" height="120"><span>  <p><b> **Ali Rezapour - Ph.D. Student**</b></p></span> 
+    <br>  <span class="ban2"> - <b> Research Area </b>:Physical Layer Security - 6G Wireless Networks  </a>
+     <br>  - <b>Webpage</b>: [LinkedIn](http://www.linkedin.com/in/ali-rezapour)</a>
+    <br>  - <b>Since</b>: 2021  </a></span>
+    </p>
 
-- **Ali Rezapour - Ph.D. Student**
-  - Research Area: ```Physical Layer Security - 6G Wireless Networks```
-  - Webpage: [LinkedIn](http://www.linkedin.com/in/ali-rezapour)
-  - Since: *2021*
 
 - **Maryam Asadi - Ph.D. Student**
   - Research Area: ```Integrated Sensing and Communication (ISAC) - Reconfigurable Intelligent Surfaces (RIS) - Physical Layer Security```
