@@ -15,7 +15,7 @@
     <br>  - <b>Since</b>: 2021  </a></span>
     </p>
 
-    <p>
+<p>
   <img src="https://github.com/user-attachments/assets/be17bb53-8b33-4d5b-8936-e81fce60b93c" align="left" width="120" height="120"><span>  <p><b> **Ali Rezapour - Ph.D. Student**</b></p></span> 
     <br>  <span class="ban2"> - <b> Research Area </b>:Physical Layer Security - 6G Wireless Networks  </a>
      <br>  - <b>Webpage</b>: [LinkedIn](http://www.linkedin.com/in/ali-rezapour)</a>
