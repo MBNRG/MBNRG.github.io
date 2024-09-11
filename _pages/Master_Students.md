@@ -1,4 +1,4 @@
-![MehrdadSaljoughi](https://github.com/user-attachments/assets/cbbca6c6-8983-41fe-80bf-837a427dfa91)# **M.Sc. Students**
+# **M.Sc. Students**
 
 <p>
   <img src="https://github.com/user-attachments/assets/0b4a7a88-311e-4a8f-8d0c-267f3d9f1076" alt="Circular Image" style="border-radius: 50%;" align="left" width="130" height="130"><span>  <p><b> **Alireza Navi **</b></p></span> 
