@@ -29,10 +29,10 @@ display_categories: [Research Interests]
   
 
    <p>
-  <img src="https://github.com/user-attachments/assets/9efe5ce6-a2f7-4b5f-a607-c21e25cc71f8" align="left" width="175" height="175"><span>  <p><b>  &nbsp; Intelligent reflecting surface (IRS) assisted systems</b></p></span> 
-    <br>  <span class="ban2"><a href="https://www.sciencedirect.com/science/article/abs/pii/S1874490722002282"> &nbsp; 3D beamforming in Intelligent Reflecting Surface (IRS)-assisted multi-user cognitive radio networks</a>
-     <br>  <a href="https://ieeexplore.ieee.org/abstract/document/9447800"> &nbsp; Vertical Beamforming in Intelligent Reflecting Surface-Aided Cognitive Radio Networks</a>
-    <br>  <a href="https://www.sciencedirect.com/science/article/abs/pii/S1874490722001203"> &nbsp; AN-aided beamforming for IRS-assisted SWIPT systems</a></span>
+  <img src="https://github.com/user-attachments/assets/9efe5ce6-a2f7-4b5f-a607-c21e25cc71f8" align="left" width="175" height="175"><span>  <p><b> Intelligent reflecting surface (IRS) assisted systems</b></p></span> 
+    <br>  <span class="ban2"><a href="https://www.sciencedirect.com/science/article/abs/pii/S1874490722002282">  3D beamforming in Intelligent Reflecting Surface (IRS)-assisted multi-user cognitive radio networks</a>
+     <br>  <a href="https://ieeexplore.ieee.org/abstract/document/9447800">  Vertical Beamforming in Intelligent Reflecting Surface-Aided Cognitive Radio Networks</a>
+    <br>  <a href="https://www.sciencedirect.com/science/article/abs/pii/S1874490722001203"> AN-aided beamforming for IRS-assisted SWIPT systems</a></span>
     </p>
    
   ---
