@@ -2,14 +2,14 @@
 
 
 <p>
-  <img src="https://github.com/user-attachments/assets/3f0e89c7-f876-489b-ad7d-180885dc46f0" calss="circular-image" align="left" width="120" height="120"><span>  <p><b> **S. Fatemeh Bozorgi - Ph.D. Student**</b></p></span> 
+  <img src="https://github.com/user-attachments/assets/3f0e89c7-f876-489b-ad7d-180885dc46f0" class="circular-image" align="left" width="120" height="120"><span>  <p><b> **S. Fatemeh Bozorgi - Ph.D. Student**</b></p></span> 
     <br>  <span class="ban2"> - <b> Research Area </b>: Physical Layer Security - 6G - UAV Networks
      <br>  - <b>Webpage</b>: LinkedIn
     <br>  - <b>Since</b>: 2020  </span>
     </p>
 
 <p>
-  <img src="https://github.com/user-attachments/assets/caae526a-db29-415a-a286-5fbd36a38aef" calss="circular-image" align="left" width="120" height="120"><span>  <p><b> **Hamidreza Hojati - Ph.D. Student**</b></p></span> 
+  <img src="https://github.com/user-attachments/assets/caae526a-db29-415a-a286-5fbd36a38aef" class="circular-image" align="left" width="120" height="120"><span>  <p><b> **Hamidreza Hojati - Ph.D. Student**</b></p></span> 
     <br>  <span class="ban2"> - <b> Research Area </b>:IRS - UAV Communications - 6G Networks  </a>
      <br>  - <b>Webpage</b>: [LinkedIn](https://www.linkedin.com/in/hamidreza-hojjati-a992641b1)</a>
     <br>  - <b>Since</b>: 2021  </a></span>
