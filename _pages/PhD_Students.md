@@ -9,7 +9,7 @@
     </p>
 
 <p>
-  <img src="https://github.com/user-attachments/assets/caae526a-db29-415a-a286-5fbd36a38aef" align="left" width="155" height="155"><span>  <p><b> **Hamidreza Hojati - Ph.D. Student**</b></p></span> 
+  <img src="https://github.com/user-attachments/assets/caae526a-db29-415a-a286-5fbd36a38aef" align="left" width="100" height="100"><span>  <p><b> **Hamidreza Hojati - Ph.D. Student**</b></p></span> 
     <br>  <span class="ban2"> - <b> Research Area </b>:IRS - UAV Communications - 6G Networks  </a>
      <br>  - <b>Webpage</b>: [LinkedIn](https://www.linkedin.com/in/hamidreza-hojjati-a992641b1)</a>
     <br>  - <b>Since</b>: 2021  </a></span>
