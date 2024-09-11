@@ -44,21 +44,7 @@
     </p>
     
   
-- **Parsa Rajabi** ([LinkedIn](https://www.linkedin.com/in/parsa-rajabi-193785231))
 
-  - Research Area: Physical Layer Security in UAV-based Wireless Network 
-
-- **Yasamin Diba** (LinkedIn)
-
-  - Research Area: Machine Learning in Physical Layer Security in IRS-Based Networks 
-
-- **Mehrdad Saljoughi** ([LinkedIn](https://www.linkedin.com/in/mehrdad-saljoughi-a341081aa/))
-
-  - Research Area: SWIPT in Cell Free Massive MIMO 
-
-- **Melika Sadat Eftekharian** ([LinkedIn](http://linkedin.com/in/melika-e-68598b223))
-
-  - Research Area: UAV Trajectory Optimization in UVA based Communication Networks 
 
 - **Fatemeh Khezrian** ([LinkedIn](https://www.linkedin.com/in/fatemeh-khezrian-23457a197/))
 
