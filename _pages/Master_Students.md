@@ -6,7 +6,6 @@
     <br> - <a href="https://www.linkedin.com/in/alirezanavi">   Webpage: LinkedIn </a>
     <br>  - <b>Since</b>: ????  </span>
     </p>
-
     <p>
   <img src="https://github.com/user-attachments/assets/0b4a7a88-311e-4a8f-8d0c-267f3d9f1076" alt="Circular Image" style="border-radius: 50%;" align="left" width="120" height="120"><span>  <p><b> **Alireza Navi **</b></p></span> 
     <br>  <span class="ban2"> - <b> Research Area </b>:IRS in UAV-Based Wireless Networks 
