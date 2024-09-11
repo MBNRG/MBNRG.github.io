@@ -21,17 +21,17 @@
     </p>
 
 <p>
-  <img src="https://github.com/user-attachments/assets/be17bb53-8b33-4d5b-8936-e81fce60b93c" alt="Circular Image" style="border-radius: 50%;" align="left" width="125" height="125"><span>  <p><b> **Ali Rezapour - Ph.D. Student**</b></p></span> 
-    <br>  <span class="ban2"> - <b> Research Area </b>:Physical Layer Security - 6G Wireless Networks  
-    <br> - <a href="http://www.linkedin.com/in/ali-rezapour1">   Webpage: LinkedIn </a>
-    <br>  - <b>Since</b>: 2021  </span>
+  <img src="https://github.com/user-attachments/assets/0b4a7a88-311e-4a8f-8d0c-267f3d9f1076" alt="Circular Image" style="border-radius: 50%;" align="left" width="130" height="130"><span>  <p><b> **Alireza Navi **</b></p></span> 
+    <br>  <span class="ban2"> - <b> Research Area </b>:IRS in UAV-Based Wireless Networks 
+    <br> - <a href="https://www.linkedin.com/in/alirezanavi">   Webpage: LinkedIn </a>
+    <br>  - <b>Since</b>: ????  </span>
     </p>
 
 <p>
-  <img src="https://github.com/user-attachments/assets/e2734867-e269-4575-a92e-57dd611d68f6" alt="Circular Image" style="border-radius: 50%;" align="left" width="125" height="125"><span>  <p><b> **Maryam Asadi - Ph.D. Student**</b></p></span> 
-    <br>  <span class="ban2"> - <b> Research Area </b>:Integrated Sensing and Communication (ISAC) - IRS - Physical Layer Security  
-    <br> - <a href="https://www.linkedin.com/in/maryam-asadi-38665923a">   Webpage: LinkedIn </a>
-    <br> - <b>Since</b>: 2022 </span>
+  <img src="https://github.com/user-attachments/assets/0b4a7a88-311e-4a8f-8d0c-267f3d9f1076" alt="Circular Image" style="border-radius: 50%;" align="left" width="130" height="130"><span>  <p><b> **Alireza Navi **</b></p></span> 
+    <br>  <span class="ban2"> - <b> Research Area </b>:IRS in UAV-Based Wireless Networks 
+    <br> - <a href="https://www.linkedin.com/in/alirezanavi">   Webpage: LinkedIn </a>
+    <br>  - <b>Since</b>: ????  </span>
     </p>
     
 
