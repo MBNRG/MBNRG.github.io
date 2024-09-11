@@ -1,4 +1,4 @@
-# **M.Sc. Students**
+![MehrdadSaljoughi](https://github.com/user-attachments/assets/cbbca6c6-8983-41fe-80bf-837a427dfa91)# **M.Sc. Students**
 
 <p>
   <img src="https://github.com/user-attachments/assets/0b4a7a88-311e-4a8f-8d0c-267f3d9f1076" alt="Circular Image" style="border-radius: 50%;" align="left" width="130" height="130"><span>  <p><b> **Alireza Navi **</b></p></span> 
@@ -22,7 +22,7 @@
     </p>
 
 <p>
-  <img src="https://github.com/user-attachments/assets/0b4a7a88-311e-4a8f-8d0c-267f3d9f1076" alt="Circular Image" style="border-radius: 50%;" align="left" width="130" height="130"><span>  <p><b> **Mehrdad Saljoughi **</b></p></span> 
+  <img src="https://github.com/user-attachments/assets/915dcfd7-07c4-4254-b311-fbe3c6518fbe" alt="Circular Image" style="border-radius: 50%;" align="left" width="130" height="130"><span>  <p><b> **Mehrdad Saljoughi **</b></p></span> 
     <br>  <span class="ban2"> - <b> Research Area </b>:Machine Learning in Physical Layer Security in IRS-Based Networks
     <br> - <a href="[https://www.linkedin.com/in/alirezanavi](https://www.linkedin.com/in/mehrdad-saljoughi-a341081aa)">   Webpage: LinkedIn </a>
     <br>  - <b>Since</b>: ????  </span>
