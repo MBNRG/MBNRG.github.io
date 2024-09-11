@@ -1,4 +1,4 @@
-# **Ph.D. Students**
+![MaryamAsadi](https://github.com/user-attachments/assets/cd47e27f-a52f-4d02-ba6a-ea1bd7a48e58)# **Ph.D. Students**
 
 
 <p>
@@ -22,10 +22,10 @@
     <br>  - <b>Since</b>: 2021  </a></span>
     </p>
 
-
-- **Maryam Asadi - Ph.D. Student**
-- image: ![HamidrezaHojjati](https://github.com/user-attachments/assets/7b4f77a5-8279-49da-803d-3d9a9b497598)
-
-  - Research Area: ```Integrated Sensing and Communication (ISAC) - Reconfigurable Intelligent Surfaces (RIS) - Physical Layer Security```
-  - Webpage: [LinkedIn](https://www.linkedin.com/in/maryam-asadi-38665923a)
-  - Since: *2022*
+<p>
+  <img src="https://github.com/user-attachments/assets/e2734867-e269-4575-a92e-57dd611d68f6" align="left" width="120" height="120"><span>  <p><b> **Maryam Asadi - Ph.D. Student**</b></p></span> 
+    <br>  <span class="ban2"> - <b> Research Area </b>:Integrated Sensing and Communication (ISAC) - Reconfigurable Intelligent Surfaces (RIS) - Physical Layer Security  </a>
+     <br>  - <b>Webpage</b>: [LinkedIn](https://www.linkedin.com/in/maryam-asadi-38665923a)
+    <br>  - <b>Since</b>: 2022 </span>
+    </p>
+    
