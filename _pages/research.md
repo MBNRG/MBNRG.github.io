@@ -47,8 +47,6 @@ display_categories: [Research Interests]
       <br> 
       <br> 
    
- ---
-
 
 <p>
   <img src="https://github.com/user-attachments/assets/ffea63fb-9d9c-4380-a857-f8d5f4734fe6" align="left" width="175" height="175"><span>  <p><b> -Non-Orthogonal Multiple Access (NOMA) communication systems</b></p></span> 
