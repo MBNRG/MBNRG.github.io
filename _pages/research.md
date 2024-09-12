@@ -53,6 +53,7 @@ display_categories: [Research Interests]
     <br>  - <span class="ban2"><a href="https://www.sciencedirect.com/science/article/abs/pii/S1874490722001203">AN-aided beamforming for IRS-assisted SWIPT systems</a>
      <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/7876801">Energy Efficient Precoding Design for SWIPT in MIMO Two-Way Relay Networks</a>
     <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/9490628/">Outage Balancing in Downlink NOMA Over Nakagami-m Fading Channels</a></span>
+    <br>
     </p>
    
   ---
