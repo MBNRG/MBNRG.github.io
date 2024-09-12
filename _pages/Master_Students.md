@@ -41,15 +41,28 @@
     <br> - <a href="https://www.linkedin.com/in/fatemeh-khezrian-23457a197">   Webpage: LinkedIn </a>
     <br>  - <b>Since</b>: ????  </span>
     </p>
-    
-    
-    
-  
 
+<p>
+  <img src="https://github.com/user-attachments/assets/740b98ab-121d-4696-b24f-512791f9406b" alt="Circular Image" style="border-radius: 50%;" align="left" width="120" height="120"><span>  <p><b> **Fatemeh Khezrian **</b></p></span> 
+    <br>  <span class="ban2"> - <b> Research Area </b>:Research Area: Reinforcement Learning Against Jamming 
+    <br> - <a href="https://www.linkedin.com/in/fatemeh-khezrian-23457a197">   Webpage: LinkedIn </a>
+    <br>  - <b>Since</b>: ????  </span>
+    </p>
+    
+<p>
+  <img src="https://github.com/user-attachments/assets/740b98ab-121d-4696-b24f-512791f9406b" alt="Circular Image" style="border-radius: 50%;" align="left" width="120" height="120"><span>  <p><b> **Fatemeh Khezrian **</b></p></span> 
+    <br>  <span class="ban2"> - <b> Research Area </b>:Research Area: Reinforcement Learning Against Jamming 
+    <br> - <a href="https://www.linkedin.com/in/fatemeh-khezrian-23457a197">   Webpage: LinkedIn </a>
+    <br>  - <b>Since</b>: ????  </span>
+    </p>    
+    
+<p>
+  <img src="https://github.com/user-attachments/assets/740b98ab-121d-4696-b24f-512791f9406b" alt="Circular Image" style="border-radius: 50%;" align="left" width="120" height="120"><span>  <p><b> **Fatemeh Khezrian **</b></p></span> 
+    <br>  <span class="ban2"> - <b> Research Area </b>:Research Area: Reinforcement Learning Against Jamming 
+    <br> - <a href="https://www.linkedin.com/in/fatemeh-khezrian-23457a197">   Webpage: LinkedIn </a>
+    <br>  - <b>Since</b>: ????  </span>
+    </p>  
 
-- **Fatemeh Khezrian** ([LinkedIn](https://www.linkedin.com/in/fatemeh-khezrian-23457a197/))
-
-  - Research Area: Reinforcement Learning Against Jamming 
 
 - **Mehdi Nasseri Shoja**  ([LinkedIn](https://www.linkedin.com/in/mehdi-nasseri-shoja))
 
