@@ -39,16 +39,6 @@ display_categories: [Research Interests]
 
 
 <p>
-  <img src="https://github.com/user-attachments/assets/b91fb33d-54fc-4fa2-99c0-2c543ea09ab0" align="left" width="175" height="175"><span>  <p><b> &nbsp; Unmanned Aerial Vehicles (UAV) communication systems</b></p></span> 
-    <br>   - <span class="ban2"><a href="https://ieeexplore.ieee.org/abstract/document/10614380"> &nbsp; Integrated Access and Backhaul (IAB) in Low Altitude Platforms</a>
-    <br> 
-      <br> 
-      <br> 
-      <br> 
-      <br> 
-  ---
-
-<p>
   <img src="https://github.com/user-attachments/assets/ffea63fb-9d9c-4380-a857-f8d5f4734fe6" align="left" width="175" height="175"><span>  <p><b> -Non-Orthogonal Multiple Access (NOMA) communication systems</b></p></span> 
     <br>  - <span class="ban2"><a href="https://ieeexplore.ieee.org/document/10190080">Optimum Solutions for Weighted Sum-Rate of NOMA and TDMA in Wireless-Powered IoT Networks</a>
      <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/9751108">User Clustering and Resource Allocation in Hybrid NOMA-OMA Systems Under Nakagami-m Fading</a>
