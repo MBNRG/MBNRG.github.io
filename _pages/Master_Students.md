@@ -43,9 +43,9 @@
     </p>
     
 <p>
-  <img src="https://github.com/user-attachments/assets/a429cde9-10d1-4361-8b1b-b90557b87e3d" alt="Circular Image" style="border-radius: 50%;" align="left" width="130" height="130"><span>  <p><b> **Parsa Rajabi **</b></p></span> 
-    <br>  <span class="ban2"> - <b> Research Area </b>:Physical Layer Security in UAV-based Wireless Network 
-    <br> - <a href="https://www.linkedin.com/in/parsa-rajabi-193785231">   Webpage: LinkedIn </a>
+  <img src="https://github.com/user-attachments/assets/a429cde9-10d1-4361-8b1b-b90557b87e3d" alt="Circular Image" style="border-radius: 50%;" align="left" width="130" height="130"<span>  <p><b> **Fatemeh Khezrian **</b></p></span> 
+    <br>  <span class="ban2"> - <b> Research Area </b>:Research Area: Reinforcement Learning Against Jamming 
+    <br> - <a href="https://www.linkedin.com/in/fatemeh-khezrian-23457a197">   Webpage: LinkedIn </a>
     <br>  - <b>Since</b>: ????  </span>
     </p>
 
