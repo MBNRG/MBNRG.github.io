@@ -24,7 +24,7 @@
 
 <p>
   <img src="https://github.com/user-attachments/assets/e2734867-e269-4575-a92e-57dd611d68f6" alt="Circular Image" style="border-radius: 50%;" align="left" width="125" height="125"><span>  <p><b> **Maryam Asadi - Ph.D. Student**</b></p></span> 
-    <br>  <span class="ban2"> - <b> Research Area </b>:Integrated Sensing and Communication (ISAC) - IRS - Physical Layer Security  
+    <br>  <span class="ban2"> - <b> Research Area </b>:Integrated Sensing and Communication (ISAC) - IRS  
     <br> - <a href="https://www.linkedin.com/in/maryam-asadi-38665923a">   Webpage: LinkedIn </a>
      <br>    -<b>Since</b>: 2022 </span>
     </p>
