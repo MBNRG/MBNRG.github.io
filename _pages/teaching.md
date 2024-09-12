@@ -21,5 +21,4 @@ nav_order: 6
 - **Analog Communications Systems (Communication systems I)**
 - **Digital Communications Systems (Communication systems II)**
 - **Computer Networks I**
-- **Communication Circuits Laboratory**
 
