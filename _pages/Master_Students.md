@@ -37,9 +37,10 @@
     
 
 <p>
-  <img src="https://github.com/user-attachments/assets/0b4a7a88-311e-4a8f-8d0c-267f3d9f1076" alt="Circular Image" style="border-radius: 50%;" align="left" width="120" height="120"><span>  <p><b> **Alireza Navi **</b></p></span> 
-    <br>  <span class="ban2"> - <b> Research Area </b>:IRS in UAV-Based Wireless Networks 
-    <br> - <a href="https://www.linkedin.com/in/alirezanavi">   Webpage: LinkedIn </a>
+  <img src="https://github.com/user-attachments/assets/740b98ab-121d-4696-b24f-512791f9406b" alt="Circular Image" style="border-radius: 50%;" align="left" width="120" height="120"><span>  <p><b> **Fatemeh Khezrian **</b></p></span> 
+    <br>  <span class="ban2"> - <b> Research Area </b>:Research Area: Reinforcement Learning Against Jamming 
+ 
+    <br> - <a href="https://www.linkedin.com/in/fatemeh-khezrian-23457a197">   Webpage: LinkedIn </a>
     <br>  - <b>Since</b>: ????  </span>
     </p>
     
