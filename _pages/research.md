@@ -49,7 +49,7 @@ display_categories: [Research Interests]
 
      
 <p>
-  <img src="https://github.com/user-attachments/assets/c11ac0a6-c0c5-43f2-98c2-53d811ba37de" align="left" width="175" height="175"><span>  <p><b> -Simultaneous Wireless Information and Power Transfer (SWIPT) systems</b></p></span> 
+  <img src="https://github.com/user-attachments/assets/c11ac0a6-c0c5-43f2-98c2-53d811ba37de" align="left" width="165" height="165"><span>  <p><b> -Simultaneous Wireless Information and Power Transfer (SWIPT) systems</b></p></span> 
     <br>  - <span class="ban2"><a href="https://www.sciencedirect.com/science/article/abs/pii/S1874490722001203">AN-aided beamforming for IRS-assisted SWIPT systems</a>
      <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/7876801">Energy Efficient Precoding Design for SWIPT in MIMO Two-Way Relay Networks</a>
     <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/9490628/">Outage Balancing in Downlink NOMA Over Nakagami-m Fading Channels</a></span>
