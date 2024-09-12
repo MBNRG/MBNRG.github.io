@@ -44,7 +44,8 @@ display_categories: [Research Interests]
     <br> 
       <br> 
       <br> 
-      <br> .
+      <br> 
+      <br> 
     </p>
  
  ---
