@@ -49,7 +49,6 @@ display_categories: [Research Interests]
  
  ---
 
-
  <p>
   <img src="https://github.com/user-attachments/assets/ffea63fb-9d9c-4380-a857-f8d5f4734fe6" align="left" width="175" height="175"><span>  <p><b> -Non-Orthogonal Multiple Access (NOMA) communication systems</b></p></span> 
     <br>  - <span class="ban2"><a href="https://ieeexplore.ieee.org/document/10190080">Optimum Solutions for Weighted Sum-Rate of NOMA and TDMA in Wireless-Powered IoT Networks</a>
