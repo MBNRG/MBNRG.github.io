@@ -14,7 +14,6 @@ profile:
     <p></p>
 
 
-<html>
 <head>
   <title>MBNRG</title>
 </head>
@@ -24,7 +23,6 @@ profile:
   </header>
 
   </body>
-</html>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
