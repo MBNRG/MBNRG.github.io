@@ -4,6 +4,7 @@ title: About
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
+---
 
 <head>
   <title>Your Website Title</title>
