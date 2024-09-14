@@ -16,11 +16,11 @@ profile:
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Your Website Title</title>
+  <title>MBNRG</title>
 </head>
 <body>
   <header>
-    <img src="path/to/your/image.jpg" alt="Image Header">
+     <img src="https://github.com/user-attachments/assets/ffbf0f36-ea43-4b2c-9c91-1b522ce984c5">
   </header>
 
   </body>
