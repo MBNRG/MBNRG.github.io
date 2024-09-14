@@ -4,20 +4,6 @@ title: About
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
-<!DOCTYPE html> 
-<html lang="en"> 
-<head> 
-    <meta charset="UTF-8"> 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-    <title>Header with Background Image</title> 
-    <link rel="stylesheet" href="styles.css"> 
-</head> 
-<body> 
-    <header class="header"> 
-        <!-- Header content goes here --> 
-    </header> 
-</body> 
-</html> 
 
 
 profile:
