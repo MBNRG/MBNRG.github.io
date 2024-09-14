@@ -14,15 +14,11 @@ profile:
     <p></p>
 
 
-<head>
-  <title>MBNRG</title>
-</head>
-<body>
+
   <header>
      <img src="https://github.com/user-attachments/assets/ffbf0f36-ea43-4b2c-9c91-1b522ce984c5">
   </header>
 
-  </body>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
