@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 </head>
 <body>
   <header>
-    <img src="https://github.com/user-attachments/assets/d4fd532b-9141-4252-8650-5831a641d148">
+    <img src="https://github.com/user-attachments/assets/388e8f95-207b-41de-b40c-db0eaeb2c67b">
   </header>
 
   </body>
