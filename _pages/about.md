@@ -6,15 +6,7 @@ permalink: /
 
 ---
 
-<head>
-  <title>Your Website Title</title>
-</head>
-<body>
-  <header>
-    <img src="https://github.com/user-attachments/assets/d4fd532b-9141-4252-8650-5831a641d148">
-  </header>
 
-  </body>
 
 
 
