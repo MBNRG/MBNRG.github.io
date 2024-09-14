@@ -13,7 +13,7 @@ profile:
     <p></p>
     <p></p>
 
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>MBNRG</title>
