@@ -37,7 +37,7 @@ display_categories: [Research Interests]
 
 
   <p>
-  <img src="https://github.com/user-attachments/assets/f61d038d-c515-4795-aace-1c45a7ae71ea" align="left" width="175" height="175"><span>  <p><b> -Beamforming and 3D Beamforming in 5G/6G Wireless Networks </b></p></span> 
+  <img src="https://github.com/user-attachments/assets/f61d038d-c515-4795-aace-1c45a7ae71ea" align="left" width="175" height="175"><span>  <p><b> -Massive MIMO and Cell-Free Massive MIMO </b></p></span> 
   <br>  Beamforming is essential for directing signals towards specific users, enhancing system performance. Our research covers traditional beamforming techniques and 3D beamforming in both conventional and reconfigurable intelligent surface (RIS)-aided networks, focusing on applications in millimeter-wave (mmWave) and massive MIMO systems.
  
   
