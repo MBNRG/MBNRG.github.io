@@ -42,12 +42,12 @@ display_categories: [Research Interests]
  
   
   <br>  &#x25CF; Key papers:
-    <br>   - <span class="ban2"><a href="https://ieeexplore.ieee.org/document/6923530">  Three-Dimensional Beamforming: A new enabling technology for 5G wireless networks </a>
-     <br>  - <a href="https://www.sciencedirect.com/science/article/abs/pii/S1874490722002282"> 3D beamforming in Intelligent Reflecting Surface (IRS)-assisted multi-user cognitive radio networks</a>
-    <br>  - <a href="https://arxiv.org/abs/2407.15463">  Integrated Access and Backhaul (IAB) in Low Altitude Platforms </a>
-    <br>  - <a href="https://ieeexplore.ieee.org/document/9097154">  3D Beamforming in Reconfigurable Intelligent Surfaces-assisted Wireless Communication Networks </a>
-    <br>  - <a href="https://ieeexplore.ieee.org/document/8717632">  Effect of Users Height Distribution on the Coverage of mmWave Cellular Networks With 3D Beamforming </a>
-    <br>  - <a href="https://ieeexplore.ieee.org/document/8718092">  Energy efficiency maximization in mmWave wireless networks with 3D beamforming </a>
+    <br>   - <span class="ban2"><a href="https://ieeexplore.ieee.org/document/10177930"> Integrated Access and Backhaul (IAB) in Cell-Free Massive MIMO Systems </a>
+     <br>  - <a href="https://ieeexplore.ieee.org/document/8292711"> Impact of user height on the coverage of 3D beamforming-enabled massive MIMO systems</a>
+    <br>  - <a href="https://ieeexplore.ieee.org/document/9345873">  Power Allocation for Downlink Training in Cell-Free Massive MIMO Networks </a>
+    <br>  - <a href="https://ieeexplore.ieee.org/document/8371284">  QoE-Aware Beamforming Design for Massive MIMO Heterogeneous Networks </a>
+    <br>  - <a href="https://link.springer.com/article/10.1007/s11276-020-02306-2">   Energy efficiency maximization in FDD massive MIMO systems with channel aging   </a>
+    <br>  - <a href="https://ieeexplore.ieee.org/document/8718092"> ... </a>
      <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/9447800">  Vertical Beamforming in Intelligent Reflecting Surface-Aided Cognitive Radio Networks </a>
       <br>  - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0045790616311211">  Joint tilt angle adaptation and beamforming in multicell multiuser cellular networks </a>
        <br>  - <a href="https://ieeexplore.ieee.org/document/8292711">  Impact of user height on the coverage of 3D beamforming-enabled massive MIMO systems </a></span>
