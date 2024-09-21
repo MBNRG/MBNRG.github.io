@@ -106,7 +106,7 @@ display_categories: [Research Interests]
   ---
 
 
-    <p>
+  <p>
   <img src="https://github.com/user-attachments/assets/4c7e50c8-a406-4a71-85ff-965b54db8c50" align="left" width="175" height="175"><span>  <p><b> Energy-Efficient Wireless Communication </b></p></span> 
   <br> Energy efficiency is crucial for modern communication systems. Our research explores optimal precoding, relay beamforming, and AP selection techniques to maximize energy efficiency across various network architectures.
  
