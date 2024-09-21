@@ -17,7 +17,7 @@ display_categories: [Research Interests]
 
 
 <p>
-  <img src="https://github.com/user-attachments/assets/2ca8bb4c-1cd6-4e79-ae1f-c5bf16d428a0" align="left" width="175" height="175"><span>  <p><b> -Beamforming and 3D Beamforming in 5G/6G Wireless Networks </b></p></span> 
+  <img src="https://github.com/user-attachments/assets/2ca8bb4c-1cd6-4e79-ae1f-c5bf16d428a0" align="left" width="175" height="175"><span>  <p><b> Beamforming and 3D Beamforming in 5G/6G Wireless Networks </b></p></span> 
   <br>  Beamforming is essential for directing signals towards specific users, enhancing system performance. Our research covers traditional beamforming techniques and 3D beamforming in both conventional and reconfigurable intelligent surface (RIS)-aided networks, focusing on applications in millimeter-wave (mmWave) and massive MIMO systems.
  
   
@@ -37,7 +37,7 @@ display_categories: [Research Interests]
 
 
   <p>
-  <img src="https://github.com/user-attachments/assets/6c1b68ab-c819-4f44-a19e-9013c22367ce" align="left" width="175" height="175"><span>  <p><b> -Massive MIMO and Cell-Free Massive MIMO </b></p></span> 
+  <img src="https://github.com/user-attachments/assets/6c1b68ab-c819-4f44-a19e-9013c22367ce" align="left" width="175" height="175"><span>  <p><b> Massive MIMO and Cell-Free Massive MIMO </b></p></span> 
   <br>  Massive Multiple-Input Multiple-Output (MIMO) systems are crucial for enhancing spectral efficiency and network capacity in 5G/6G networks. Our research explores both centralized massive MIMO systems and decentralized, cell-free massive MIMO architectures, which mitigate interference and improve connectivity in dense user environments.
  
   
@@ -54,7 +54,7 @@ display_categories: [Research Interests]
   
 
   <p>
-  <img src="https://github.com/user-attachments/assets/074e9b77-4c14-497f-9071-576894aec3bb" align="left" width="175" height="175"><span>  <p><b> -Machine Learning and AI in Wireless Networks  </b></p></span> 
+  <img src="https://github.com/user-attachments/assets/074e9b77-4c14-497f-9071-576894aec3bb" align="left" width="175" height="175"><span>  <p><b> Machine Learning and AI in Wireless Networks  </b></p></span> 
   <br>  We leverage machine learning and artificial intelligence to optimize wireless communication networks. Techniques such as deep reinforcement learning and supervised learning are applied to address challenges in resource allocation, interference management, and network security.
  
   <br>
@@ -68,7 +68,7 @@ display_categories: [Research Interests]
 
 
   <p>
-  <img src="https://github.com/user-attachments/assets/008924b1-13f0-4e6c-81b3-c0c2bd41cf80" align="left" width="175" height="175"><span>  <p><b> -Reconfigurable Intelligent Surfaces (RIS) - Intelligent Reflecting Surfaces (IRS)  </b></p></span> 
+  <img src="https://github.com/user-attachments/assets/008924b1-13f0-4e6c-81b3-c0c2bd41cf80" align="left" width="175" height="175"><span>  <p><b> Reconfigurable Intelligent Surfaces (RIS) - Intelligent Reflecting Surfaces (IRS)  </b></p></span> 
   <br>  RIS technology enables smart wireless environments by dynamically controlling signal reflections. Our research explores the integration of RIS in cognitive radio networks and mmWave communication, focusing on beamforming and energy efficiency.
  
   <br>
