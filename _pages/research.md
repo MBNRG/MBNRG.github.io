@@ -107,7 +107,7 @@ display_categories: [Research Interests]
 
 
   <p>
-  <img src="https://github.com/user-attachments/assets/d5be50f3-9ee9-4f28-a7b5-da067452cd82" align="left" width="175" height="175"><span>  <p><b> Energy-Efficient Wireless Communication </b></p></span> 
+  <img src="https://github.com/user-attachments/assets/ad23988b-511a-4f5d-a5cb-81284c403d82" align="left" width="175" height="175"><span>  <p><b> Energy-Efficient Wireless Communication </b></p></span> 
   <br> Energy efficiency is crucial for modern communication systems. Our research explores optimal precoding, relay beamforming, and AP selection techniques to maximize energy efficiency across various network architectures.
  
   <br>
@@ -132,7 +132,8 @@ display_categories: [Research Interests]
   <img src="https://github.com/user-attachments/assets/824460ec-f5be-4b5b-aabf-4dcd2f6cbada" align="left" width="175" height="175"><span>  <p><b> Internet of Things (IoT)  </b></p></span> 
   <br> The IoT is revolutionizing communication networks. Our research focuses on optimizing MIMO systems and massive MIMO for high-rate IoT applications to enhance performance and connectivity.
  
-  
+  <br>
+  <br>
   <br>  &#x25CF; Key papers:
     <br>   - <span class="ban2"><a href="https://ieeexplore.ieee.org/document/10190080"> Optimum Solutions for Weighted Sum-Rate of NOMA and TDMA in Wireless-Powered IoT Networks </a>
      <br>  - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168421001705"> Coordinated versus uncoordinated channel tracking for high-rate internet of things in multiuser massive MIMO: Algorithms and performance</a>
@@ -143,7 +144,7 @@ display_categories: [Research Interests]
 
    
   <p>
-  <img src="https://github.com/user-attachments/assets/4c7e50c8-a406-4a71-85ff-965b54db8c50" align="left" width="175" height="175"><span>  <p><b> Relay Networks and Cooperative Communications   </b></p></span> 
+  <img src="https://github.com/user-attachments/assets/d27aa4db-25cb-40bb-9f92-ba0be747d049" align="left" width="175" height="175"><span>  <p><b> Relay Networks and Cooperative Communications   </b></p></span> 
   <br> Relay Networks and Cooperative Communications 
  
   
