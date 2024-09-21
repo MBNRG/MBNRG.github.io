@@ -107,23 +107,20 @@ display_categories: [Research Interests]
 
 
     <p>
-  <img src="https://github.com/user-attachments/assets/4c7e50c8-a406-4a71-85ff-965b54db8c50" align="left" width="175" height="175"><span>  <p><b> Physical Layer Security in Wireless Communications   </b></p></span> 
-  <br>  Ensuring physical layer security is critical as 5G and 6G networks become integral to critical infrastructures. Our work focuses on developing robust security mechanisms to protect against eavesdropping, jamming, and other forms of interference. We explore traditional encryption techniques and advanced methods, such as jamming-resistant communications.
+  <img src="https://github.com/user-attachments/assets/4c7e50c8-a406-4a71-85ff-965b54db8c50" align="left" width="175" height="175"><span>  <p><b> Energy-Efficient Wireless Communication </b></p></span> 
+  <br> Energy efficiency is crucial for modern communication systems. Our research explores optimal precoding, relay beamforming, and AP selection techniques to maximize energy efficiency across various network architectures.
  
   
   <br>  &#x25CF; Key papers:
-    <br>   - <span class="ban2"><a href="https://www.sciencedirect.com/science/article/abs/pii/S1874490721001737"> Secrecy rate maximization in multi-IRS mmWave networks </a>
-     <br>  - <a href="https://ieeexplore.ieee.org/document/8546920"> Phase Jamming Attack: A Practical Attack on Physical layer-Based Key Derivation </a>
-    <br>  - <a href="https://ieeexplore.ieee.org/document/8017521"> Jamming-Resistant Receivers for the Massive MIMO Uplink </a>
-    <br>  - <a href="https://ieeexplore.ieee.org/document/8653962"> Jamming Suppression in Massive MIMO Systems</a>
-    <br>  - <a href="https://ieeexplore.ieee.org/document/8094873">  Jamming Detection in Massive MIMO Systems   </a>
-    <br>  - <a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12190#:~:text=A%20jamming%20detection%20and%20suppression%20method%20in%20a%20mmWave%20massive,an%20active%20RP%20or%20not."> Direction-based jamming detection and suppression in mmWave massive MIMO networks  </a>
-    <br>  - <a href="https://ieeexplore.ieee.org/document/8546920"> Phase Jamming Attack: A Practical Attack on Physical layer-Based Key Derivation  </a>
+    <br>   - <span class="ban2"><a href="https://ieeexplore.ieee.org/document/9849036"> Energy Efficient AP Selection for Cell-Free Massive MIMO Systems: Deep Reinforcement Learning Approach </a>
+     <br>  - <a href="https://ieeexplore.ieee.org/document/7876801"> Energy Efficient Precoding Design for SWIPT in MIMO Two-Way Relay Networks </a>
+    <br>  - <a href="https://link.springer.com/article/10.1007/s11276-020-02306-2"> Energy efficiency maximization in FDD massive MIMO systems with channel aging </a>
+    <br>  - <a href="https://ieeexplore.ieee.org/document/9167191"> Secure Simultaneous Information and Power Transfer for Downlink Multi-User Massive MIMO</a>
+    <br>  - <a href="https://ieeexplore.ieee.org/document/8718092">  Energy efficiency maximization in mmWave wireless networks with 3D beamforming   </a>
+    <br>  - <a href="https://ijict.itrc.ac.ir/article-1-422-en.pdf"> Energy Efficiency of Massive MIMO Cognitive Radio Networks in Presence of Smart Jamming </a>
      <br>  - <a href="https://ieeexplore.ieee.org/document/9024145"> Jamming-Robust Uplink Transmission for Spatially Correlated Massive MIMO Systems  </a>
      <br>  - <a href="https://ieeexplore.ieee.org/document/9064726"> A Comparison of TDD and FDD Massive MIMO Systems Against Smart Jamming  </a>
-     <br>  - <a href="https://ijict.itrc.ac.ir/article-1-422-en.pdf">  Energy Efficiency of Massive MIMO Cognitive Radio Networks in Presence of Smart Jamming </a>
-     <br>  - <a href="https://ieeexplore.ieee.org/document/8661082"> Security Vulnerability of FDD Massive MIMO Systems in Downlink Training Phase  </a>
-     <br>  - <a href="https://ieeexplore.ieee.org/document/9542983"> Attacking Massive MIMO Cognitive Radio Networks by Optimized Jamming  </a></span>
+     <br>  - <a href="https://ijict.itrc.ac.ir/article-1-422-en.pdf">  Energy Efficiency of Massive MIMO Cognitive Radio Networks in Presence of Smart Jamming </a></span>
     </p>
    
   ---
