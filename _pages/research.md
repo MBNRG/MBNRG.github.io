@@ -71,7 +71,7 @@ display_categories: [Research Interests]
   <img src="https://github.com/user-attachments/assets/008924b1-13f0-4e6c-81b3-c0c2bd41cf80" align="left" width="175" height="175"><span>  <p><b> -Reconfigurable Intelligent Surfaces (RIS) - Intelligent Reflecting Surfaces (IRS)  </b></p></span> 
   <br>  RIS technology enables smart wireless environments by dynamically controlling signal reflections. Our research explores the integration of RIS in cognitive radio networks and mmWave communication, focusing on beamforming and energy efficiency.
  
-  
+  <br>
   <br>  &#x25CF; Key papers:
     <br>   - <span class="ban2"><a href="https://ieeexplore.ieee.org/document/9097154"> 3D Beamforming in Reconfigurable Intelligent Surfaces-assisted Wireless Communication Networks</a>
      <br>  - <a href="https://arxiv.org/abs/2103.08900"> Vertical Beamforming in Reconfigurable Intelligent Surface-aided Cognitive Radio Networks</a>
@@ -107,7 +107,7 @@ display_categories: [Research Interests]
 
 
   <p>
-  <img src="https://github.com/user-attachments/assets/4c7e50c8-a406-4a71-85ff-965b54db8c50" align="left" width="175" height="175"><span>  <p><b> Energy-Efficient Wireless Communication </b></p></span> 
+  <img src="https://github.com/user-attachments/assets/d5be50f3-9ee9-4f28-a7b5-da067452cd82" align="left" width="175" height="175"><span>  <p><b> Energy-Efficient Wireless Communication </b></p></span> 
   <br> Energy efficiency is crucial for modern communication systems. Our research explores optimal precoding, relay beamforming, and AP selection techniques to maximize energy efficiency across various network architectures.
  
   
