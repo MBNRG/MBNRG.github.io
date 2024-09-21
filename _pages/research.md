@@ -9,11 +9,9 @@ display_categories: [Research Interests]
 ---
 
 <p>
-  <span>  <p><b> -Cell-Free Massive MIMO systems</b></p></span> 
-    <br>  - <span class="ban2"><a href="https://ieeexplore.ieee.org/abstract/document/10177930">   Integrated Access and Backhaul (IAB) in Cell-Free Massive MIMO Systems</a>
-     <br>   - <a href="https://ieeexplore.ieee.org/abstract/document/10012721">   Optimum Jamming in User-Centric Cell-Free Networks</a>
-    <br>   - <a href="https://ieeexplore.ieee.org/abstract/document/9849036">  Energy Efficient AP Selection for Cell-Free Massive MIMO Systems: Deep Reinforcement Learning Approach</a></span>
-    </p>
+  <span>  <p><b> -Research Focus </b></p></span> 
+    <br>  Our research at the MBNRG group is dedicated to advancing wireless communications, primarily focusing on 5G and 6G mobile cellular networks. We specialize in the application of physical layer signal processing techniques, exploring various dimensions such as massive MIMO, intelligent surfaces, jamming-resistant communications, machine learning, and cooperative networks. Our interdisciplinary approach aims to tackle challenges in signal processing, network design, and communication security, with the goal of enhancing the performance, reliability, and security of next-generation wireless systems. Through our innovative strategies, we strive to optimize future wireless communication systems.
+     </p>
    
   ---
 
