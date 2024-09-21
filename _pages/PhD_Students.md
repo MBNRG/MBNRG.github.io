@@ -2,7 +2,7 @@
 
 
 <p>
-  <img src="https://github.com/user-attachments/assets/3f0e89c7-f876-489b-ad7d-180885dc46f0" class="circular-image" align="left" width="130" height="130"><span>p><strong> S. Fatemeh Bozorgi </strong></p></span> 
+  <img src="https://github.com/user-attachments/assets/3f0e89c7-f876-489b-ad7d-180885dc46f0" class="circular-image" align="left" width="130" height="130"><span><p><strong> S. Fatemeh Bozorgi </strong></p></span> 
     <br>  <span class="ban2"> - <b> Research Area </b>: Physical Layer Security - 6G - UAV Networks
      <br>  - <b>Webpage</b>: LinkedIn
     <br>  - <b>Since</b>: 2020  </span>
