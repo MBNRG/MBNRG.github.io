@@ -37,7 +37,7 @@ display_categories: [Research Interests]
 
 
   <p>
-  <img src="https://github.com/user-attachments/assets/f61d038d-c515-4795-aace-1c45a7ae71ea" align="left" width="175" height="175"><span>  <p><b> -Massive MIMO and Cell-Free Massive MIMO </b></p></span> 
+  <img src="https://github.com/user-attachments/assets/4c7e50c8-a406-4a71-85ff-965b54db8c50" align="left" width="175" height="175"><span>  <p><b> -Massive MIMO and Cell-Free Massive MIMO </b></p></span> 
   <br>  Massive Multiple-Input Multiple-Output (MIMO) systems are crucial for enhancing spectral efficiency and network capacity in 5G/6G networks. Our research explores both centralized massive MIMO systems and decentralized, cell-free massive MIMO architectures, which mitigate interference and improve connectivity in dense user environments.
  
   
