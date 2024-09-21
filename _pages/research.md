@@ -47,10 +47,7 @@ display_categories: [Research Interests]
     <br>  - <a href="https://ieeexplore.ieee.org/document/9345873">  Power Allocation for Downlink Training in Cell-Free Massive MIMO Networks </a>
     <br>  - <a href="https://ieeexplore.ieee.org/document/8371284">  QoE-Aware Beamforming Design for Massive MIMO Heterogeneous Networks </a>
     <br>  - <a href="https://link.springer.com/article/10.1007/s11276-020-02306-2">   Energy efficiency maximization in FDD massive MIMO systems with channel aging   </a>
-    <br>  - <a href="https://ieeexplore.ieee.org/document/8718092"> ... </a>
-     <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/9447800">  Vertical Beamforming in Intelligent Reflecting Surface-Aided Cognitive Radio Networks </a>
-      <br>  - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0045790616311211">  Joint tilt angle adaptation and beamforming in multicell multiuser cellular networks </a>
-       <br>  - <a href="https://ieeexplore.ieee.org/document/8292711">  Impact of user height on the coverage of 3D beamforming-enabled massive MIMO systems </a></span>
+    <br>  - <a href="https://ieeexplore.ieee.org/document/9849036"> Energy Efficient AP Selection for Cell-Free Massive MIMO Systems: Deep Reinforcement Learning Approach </a></span>
     </p>
    
   ---
