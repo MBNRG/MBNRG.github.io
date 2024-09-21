@@ -106,36 +106,5 @@ display_categories: [Research Interests]
   ---
 
 
-    <p>
-  <img src="https://github.com/user-attachments/assets/4c7e50c8-a406-4a71-85ff-965b54db8c50" align="left" width="175" height="175"><span>  <p><b> Energy-Efficient Wireless Communication </b></p></span> 
-  <br> Energy efficiency is crucial for modern communication systems. Our research explores optimal precoding, relay beamforming, and AP selection techniques to maximize energy efficiency across various network architectures.
- 
-  
-  <br>  &#x25CF; Key papers:
-    <br>   - <span class="ban2"><a href="https://ieeexplore.ieee.org/document/9849036"> Energy Efficient AP Selection for Cell-Free Massive MIMO Systems: Deep Reinforcement Learning Approach </a>
-     <br>  - <a href="https://ieeexplore.ieee.org/document/7876801"> Energy Efficient Precoding Design for SWIPT in MIMO Two-Way Relay Networks </a>
-    <br>  - <a href="https://link.springer.com/article/10.1007/s11276-020-02306-2"> Energy efficiency maximization in FDD massive MIMO systems with channel aging </a>
-    <br>  - <a href="https://ieeexplore.ieee.org/document/9167191"> Secure Simultaneous Information and Power Transfer for Downlink Multi-User Massive MIMO</a>
-    <br>  - <a href="https://ieeexplore.ieee.org/document/8718092">  Energy efficiency maximization in mmWave wireless networks with 3D beamforming   </a>
-    <br>  - <a href="https://ijict.itrc.ac.ir/article-1-422-en.pdf"> Energy Efficiency of Massive MIMO Cognitive Radio Networks in Presence of Smart Jamming </a>
-     <br>  - <a href="https://ieeexplore.ieee.org/document/9024145"> Jamming-Robust Uplink Transmission for Spatially Correlated Massive MIMO Systems  </a>
-     <br>  - <a href="https://ieeexplore.ieee.org/document/9064726"> A Comparison of TDD and FDD Massive MIMO Systems Against Smart Jamming  </a>
-     <br>  - <a href="https://ijict.itrc.ac.ir/article-1-422-en.pdf">  Energy Efficiency of Massive MIMO Cognitive Radio Networks in Presence of Smart Jamming </a></span>
-    </p>
-   
-  ---
 
-
-    <p>
-  <img src="https://github.com/user-attachments/assets/4c7e50c8-a406-4a71-85ff-965b54db8c50" align="left" width="175" height="175"><span>  <p><b> Internet of Things (IoT)  </b></p></span> 
-  <br> The IoT is revolutionizing communication networks. Our research focuses on optimizing MIMO systems and massive MIMO for high-rate IoT applications to enhance performance and connectivity.
- 
-  
-  <br>  &#x25CF; Key papers:
-    <br>   - <span class="ban2"><a href="https://ieeexplore.ieee.org/document/10190080"> Optimum Solutions for Weighted Sum-Rate of NOMA and TDMA in Wireless-Powered IoT Networks </a>
-     <br>  - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168421001705"> Coordinated versus uncoordinated channel tracking for high-rate internet of things in multiuser massive MIMO: Algorithms and performance</a>
-    <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/9345865"> Uncoordinated Channel Tracking for High-Rate Internet of Things in Multiuser Massive MIMO </a></span>
-    </p>
-   
-  ---
      
