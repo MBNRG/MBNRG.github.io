@@ -37,7 +37,7 @@ display_categories: [Research Interests]
 
 
   <p>
-  <img src="https://github.com/user-attachments/assets/4c7e50c8-a406-4a71-85ff-965b54db8c50" align="left" width="175" height="175"><span>  <p><b> -Massive MIMO and Cell-Free Massive MIMO </b></p></span> 
+  <img src="https://github.com/user-attachments/assets/6c1b68ab-c819-4f44-a19e-9013c22367ce" align="left" width="175" height="175"><span>  <p><b> -Massive MIMO and Cell-Free Massive MIMO </b></p></span> 
   <br>  Massive Multiple-Input Multiple-Output (MIMO) systems are crucial for enhancing spectral efficiency and network capacity in 5G/6G networks. Our research explores both centralized massive MIMO systems and decentralized, cell-free massive MIMO architectures, which mitigate interference and improve connectivity in dense user environments.
  
   
@@ -57,7 +57,7 @@ display_categories: [Research Interests]
   <img src="https://github.com/user-attachments/assets/074e9b77-4c14-497f-9071-576894aec3bb" align="left" width="175" height="175"><span>  <p><b> -Machine Learning and AI in Wireless Networks  </b></p></span> 
   <br>  We leverage machine learning and artificial intelligence to optimize wireless communication networks. Techniques such as deep reinforcement learning and supervised learning are applied to address challenges in resource allocation, interference management, and network security.
  
-  
+  <br>
   <br>  &#x25CF; Key papers:
     <br>   - <span class="ban2"><a href="https://ieeexplore.ieee.org/document/9849036"> Energy Efficient AP Selection for Cell-Free Massive MIMO Systems: Deep Reinforcement Learning Approach </a>
      <br>  - <a href="https://ieeexplore.ieee.org/document/9490648"> Deep Reinforcement Learning Based Adaptive Modulation With Outdated CSI</a>
