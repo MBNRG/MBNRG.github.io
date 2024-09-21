@@ -53,11 +53,15 @@ display_categories: [Research Interests]
   ---
   
 
-<p>
-  <img src="https://github.com/user-attachments/assets/9efe5ce6-a2f7-4b5f-a607-c21e25cc71f8" align="left" width="175" height="175"><span>  <p><b> -Intelligent reflecting surface (IRS) assisted systems</b></p></span> 
-    <br>  - <span class="ban2"><a href="https://www.sciencedirect.com/science/article/abs/pii/S1874490722002282">  3D beamforming in Intelligent Reflecting Surface (IRS)-assisted multi-user cognitive radio networks</a>
-     <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/9447800">  Vertical Beamforming in Intelligent Reflecting Surface-Aided Cognitive Radio Networks</a>
-    <br>  - <a href="https://www.sciencedirect.com/science/article/abs/pii/S1874490722001203"> AN-aided beamforming for IRS-assisted SWIPT systems</a></span>
+  <p>
+  <img src="https://github.com/user-attachments/assets/4c7e50c8-a406-4a71-85ff-965b54db8c50" align="left" width="175" height="175"><span>  <p><b> -Machine Learning and AI in Wireless Networks  </b></p></span> 
+  <br>  We leverage machine learning and artificial intelligence to optimize wireless communication networks. Techniques such as deep reinforcement learning and supervised learning are applied to address challenges in resource allocation, interference management, and network security.
+ 
+  
+  <br>  &#x25CF; Key papers:
+    <br>   - <span class="ban2"><a href="https://ieeexplore.ieee.org/document/9849036"> Energy Efficient AP Selection for Cell-Free Massive MIMO Systems: Deep Reinforcement Learning Approach </a>
+     <br>  - <a href="https://ieeexplore.ieee.org/document/9490648"> Deep Reinforcement Learning Based Adaptive Modulation With Outdated CSI</a>
+    <br>  - <a href="https://arxiv.org/abs/2101.00270"> Deep Reinforcement Learning-based Anti-jamming Power Allocation in a Two-cell NOMA Network </a></span>
     </p>
    
   ---
