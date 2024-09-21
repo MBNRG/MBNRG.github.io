@@ -159,12 +159,29 @@ display_categories: [Research Interests]
  
   
   <br>  &#x25CF; Key papers:
-    <br>   - <span class="ban2"><a href="https://www.researchgate.net/publication/267297934_Joint_beamforming_and_power_control_in_MIMO_cognitive_radio_networks"> Joint beamforming and power control in MIMO cognitive radio networks</a>
+     <br>   - <span class="ban2"><a href="https://www.researchgate.net/publication/267297934_Joint_beamforming_and_power_control_in_MIMO_cognitive_radio_networks"> Joint beamforming and power control in MIMO cognitive radio networks</a>
      <br>  - <a href="https://ieeexplore.ieee.org/document/10032287"> Secure Beamforming in Multi-User Multi-IRS Millimeter Wave Systems</a>
     <br>  - <a href="https://ieeexplore.ieee.org/document/5449675"> Cooperative beamforming in Cognitive Radio networks </a>
      <br>  - <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3199"> Modeling and analysis of traffic-aware spectrum handover schemes in cognitive HetNets</a>
       <br>  - <a href="https://ieeexplore.ieee.org/document/9542983"> Attacking Massive MIMO Cognitive Radio Networks by Optimized Jamming</a></span>
     </p>
+    
+   ---
+
+
+  <p>
+  <img src="https://github.com/user-attachments/assets/4c7e50c8-a406-4a71-85ff-965b54db8c50" align="left" width="175" height="175"><span>  <p><b> NOMA Systems   </b></p></span> 
+  <br> Non-Orthogonal Multiple Access (NOMA) is a key technology for improving network efficiency. Our research includes user clustering and resource allocation strategies in hybrid NOMA-OMA systems to enhance performance.
+ 
+  
+  <br>  &#x25CF; Key papers:
+  <br>   - <span class="ban2"><a href="https://ieeexplore.ieee.org/document/10190080">Optimum Solutions for Weighted Sum-Rate of NOMA and TDMA in Wireless-Powered IoT Networks</a>
+     <br>  - <a href="https://ieeexplore.ieee.org/document/9751108"> User Clustering and Resource Allocation in Hybrid NOMA-OMA Systems Under Nakagami-m Fading</a>
+    <br>  - <a href="https://ieeexplore.ieee.org/document/9490628"> Outage Balancing in Downlink NOMA Over Nakagami-m Fading Channels </a>
+     </span>
+    </p>
+
+   
 
    ---
      
