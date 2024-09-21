@@ -54,7 +54,7 @@ display_categories: [Research Interests]
   
 
   <p>
-  <img src="https://github.com/user-attachments/assets/4c7e50c8-a406-4a71-85ff-965b54db8c50" align="left" width="175" height="175"><span>  <p><b> -Machine Learning and AI in Wireless Networks  </b></p></span> 
+  <img src="https://github.com/user-attachments/assets/074e9b77-4c14-497f-9071-576894aec3bb" align="left" width="175" height="175"><span>  <p><b> -Machine Learning and AI in Wireless Networks  </b></p></span> 
   <br>  We leverage machine learning and artificial intelligence to optimize wireless communication networks. Techniques such as deep reinforcement learning and supervised learning are applied to address challenges in resource allocation, interference management, and network security.
  
   
@@ -67,15 +67,20 @@ display_categories: [Research Interests]
   ---
 
 
-<p>
-  <img src="https://github.com/user-attachments/assets/ffea63fb-9d9c-4380-a857-f8d5f4734fe6" align="left" width="175" height="175"><span>  <p><b> -Non-Orthogonal Multiple Access (NOMA) communication systems</b></p></span> 
-    <br>  - <span class="ban2"><a href="https://ieeexplore.ieee.org/document/10190080">Optimum Solutions for Weighted Sum-Rate of NOMA and TDMA in Wireless-Powered IoT Networks</a>
-     <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/9751108">User Clustering and Resource Allocation in Hybrid NOMA-OMA Systems Under Nakagami-m Fading</a>
-    <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/9490628/">Outage Balancing in Downlink NOMA Over Nakagami-m Fading Channels</a></span>
-   </p>
+  <p>
+  <img src="https://github.com/user-attachments/assets/4c7e50c8-a406-4a71-85ff-965b54db8c50" align="left" width="175" height="175"><span>  <p><b> -Reconfigurable Intelligent Surfaces (RIS) - Intelligent Reflecting Surfaces (IRS)  </b></p></span> 
+  <br>  RIS technology enables smart wireless environments by dynamically controlling signal reflections. Our research explores the integration of RIS in cognitive radio networks and mmWave communication, focusing on beamforming and energy efficiency.
+ 
+  
+  <br>  &#x25CF; Key papers:
+    <br>   - <span class="ban2"><a href="https://ieeexplore.ieee.org/document/9097154"> 3D Beamforming in Reconfigurable Intelligent Surfaces-assisted Wireless Communication Networks</a>
+     <br>  - <a href="https://arxiv.org/abs/2103.08900"> Vertical Beamforming in Reconfigurable Intelligent Surface-aided Cognitive Radio Networks</a>
+    <br>  - <a href="https://www.sciencedirect.com/science/article/abs/pii/S1874490722001203">  AN-aided beamforming for IRS-assisted SWIPT systems </a>
+    <br>  - <a href="https://www.sciencedirect.com/science/article/abs/pii/S1874490721001737"> Secrecy rate maximization in multi-IRS mmWave networks </a>
+    <br>  - <a href="https://ieeexplore.ieee.org/document/9167191">  Secure Simultaneous Information and Power Transfer for Downlink Multi-User Massive MIMO   </a></span>
+    </p>
    
   ---
-
      
 <p>
   <img src="https://github.com/user-attachments/assets/c11ac0a6-c0c5-43f2-98c2-53d811ba37de" align="left" width="165" height="165"><span>  <p><b> -Simultaneous Wireless Information and Power Transfer (SWIPT) systems</b></p></span> 
