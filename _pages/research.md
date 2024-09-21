@@ -68,7 +68,7 @@ display_categories: [Research Interests]
 
 
   <p>
-  <img src="https://github.com/user-attachments/assets/4c7e50c8-a406-4a71-85ff-965b54db8c50" align="left" width="175" height="175"><span>  <p><b> -Reconfigurable Intelligent Surfaces (RIS) - Intelligent Reflecting Surfaces (IRS)  </b></p></span> 
+  <img src="https://github.com/user-attachments/assets/008924b1-13f0-4e6c-81b3-c0c2bd41cf80" align="left" width="175" height="175"><span>  <p><b> -Reconfigurable Intelligent Surfaces (RIS) - Intelligent Reflecting Surfaces (IRS)  </b></p></span> 
   <br>  RIS technology enables smart wireless environments by dynamically controlling signal reflections. Our research explores the integration of RIS in cognitive radio networks and mmWave communication, focusing on beamforming and energy efficiency.
  
   
@@ -84,7 +84,7 @@ display_categories: [Research Interests]
 
 
   <p>
-  <img src="https://github.com/user-attachments/assets/4c7e50c8-a406-4a71-85ff-965b54db8c50" align="left" width="175" height="175"><span>  <p><b> Physical Layer Security in Wireless Communications   </b></p></span> 
+  <img src="https://github.com/user-attachments/assets/6b4d3079-3718-4889-b3f4-4e4cb5aae0c9" align="left" width="175" height="175"><span>  <p><b> Physical Layer Security in Wireless Communications   </b></p></span> 
   <br>  Ensuring physical layer security is critical as 5G and 6G networks become integral to critical infrastructures. Our work focuses on developing robust security mechanisms to protect against eavesdropping, jamming, and other forms of interference. We explore traditional encryption techniques and advanced methods, such as jamming-resistant communications.
  
   
