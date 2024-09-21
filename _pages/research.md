@@ -129,7 +129,7 @@ display_categories: [Research Interests]
 
 
   <p>
-  <img src="https://github.com/user-attachments/assets/4c7e50c8-a406-4a71-85ff-965b54db8c50" align="left" width="175" height="175"><span>  <p><b> Internet of Things (IoT)  </b></p></span> 
+  <img src="https://github.com/user-attachments/assets/824460ec-f5be-4b5b-aabf-4dcd2f6cbada" align="left" width="175" height="175"><span>  <p><b> Internet of Things (IoT)  </b></p></span> 
   <br> The IoT is revolutionizing communication networks. Our research focuses on optimizing MIMO systems and massive MIMO for high-rate IoT applications to enhance performance and connectivity.
  
   
