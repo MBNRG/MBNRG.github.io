@@ -147,7 +147,8 @@ display_categories: [Research Interests]
   <img src="https://github.com/user-attachments/assets/d27aa4db-25cb-40bb-9f92-ba0be747d049" align="left" width="175" height="175"><span>  <p><b> Relay Networks and Cooperative Communications   </b></p></span> 
   <br> Our research in relay networks and cooperative communications focuses on improving the performance and reliability of these systems. We investigate novel techniques for relay beamforming and cooperation in communication networks.
  
-  
+  <br>
+  <br>
   <br>  &#x25CF; Key papers:
     <br>   - <span class="ban2"><a href="https://www.researchgate.net/publication/269328053_Robust_filter_and_forward_relay_beamforming_with_spherical_channel_state_information_uncertainties"> Robust filter and forward relay beamforming with spherical channel state information uncertainties </a></span>
     </p>
@@ -156,10 +157,10 @@ display_categories: [Research Interests]
 
   
   <p>
-  <img src="https://github.com/user-attachments/assets/4c7e50c8-a406-4a71-85ff-965b54db8c50" align="left" width="175" height="175"><span>  <p><b> Cognitive Radio and Spectrum Sharing   </b></p></span> 
+  <img src="https://github.com/user-attachments/assets/f4501483-a52f-4960-af8b-228b213b5888" align="left" width="175" height="175"><span>  <p><b> Cognitive Radio and Spectrum Sharing   </b></p></span> 
   <br> Cognitive radio technology enables dynamic spectrum access and enhances spectrum efficiency. Our research focuses on innovative algorithms for beamforming, power allocation, and spectrum handover to optimize performance and mitigate interference in cognitive networks.
  
-  
+  <br>
   <br>  &#x25CF; Key papers:
      <br>   - <span class="ban2"><a href="https://www.researchgate.net/publication/267297934_Joint_beamforming_and_power_control_in_MIMO_cognitive_radio_networks"> Joint beamforming and power control in MIMO cognitive radio networks</a>
      <br>  - <a href="https://ieeexplore.ieee.org/document/10032287"> Secure Beamforming in Multi-User Multi-IRS Millimeter Wave Systems</a>
@@ -172,10 +173,11 @@ display_categories: [Research Interests]
 
 
   <p>
-  <img src="https://github.com/user-attachments/assets/4c7e50c8-a406-4a71-85ff-965b54db8c50" align="left" width="175" height="175"><span>  <p><b> NOMA Systems   </b></p></span> 
+  <img src="https://github.com/user-attachments/assets/e03926e4-36e5-4192-ae71-f54d2723e7d9" align="left" width="175" height="175"><span>  <p><b> NOMA Systems   </b></p></span> 
   <br> Non-Orthogonal Multiple Access (NOMA) is a key technology for improving network efficiency. Our research includes user clustering and resource allocation strategies in hybrid NOMA-OMA systems to enhance performance.
  
-  
+  <br>
+  <br>
   <br>  &#x25CF; Key papers:
   <br>   - <span class="ban2"><a href="https://ieeexplore.ieee.org/document/10190080">Optimum Solutions for Weighted Sum-Rate of NOMA and TDMA in Wireless-Powered IoT Networks</a>
      <br>  - <a href="https://ieeexplore.ieee.org/document/9751108"> User Clustering and Resource Allocation in Hybrid NOMA-OMA Systems Under Nakagami-m Fading</a>
