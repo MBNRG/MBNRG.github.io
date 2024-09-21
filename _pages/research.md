@@ -110,7 +110,8 @@ display_categories: [Research Interests]
   <img src="https://github.com/user-attachments/assets/d5be50f3-9ee9-4f28-a7b5-da067452cd82" align="left" width="175" height="175"><span>  <p><b> Energy-Efficient Wireless Communication </b></p></span> 
   <br> Energy efficiency is crucial for modern communication systems. Our research explores optimal precoding, relay beamforming, and AP selection techniques to maximize energy efficiency across various network architectures.
  
-  
+  <br>
+  <br>
   <br>  &#x25CF; Key papers:
     <br>   - <span class="ban2"><a href="https://ieeexplore.ieee.org/document/9849036"> Energy Efficient AP Selection for Cell-Free Massive MIMO Systems: Deep Reinforcement Learning Approach </a>
      <br>  - <a href="https://ieeexplore.ieee.org/document/7876801"> Energy Efficient Precoding Design for SWIPT in MIMO Two-Way Relay Networks </a>
