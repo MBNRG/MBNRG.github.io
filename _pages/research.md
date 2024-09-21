@@ -19,9 +19,9 @@ display_categories: [Research Interests]
 <p>
   <img src="https://github.com/user-attachments/assets/75dfb6f4-241e-4f11-91bb-6fc0e7945fe2" align="left" width="175" height="175"><span>  <p><b> -Beamforming and 3D Beamforming in 5G/6G Wireless Networks </b></p></span> 
   <br>  Beamforming is essential for directing signals towards specific users, enhancing system performance. Our research covers traditional beamforming techniques and 3D beamforming in both conventional and reconfigurable intelligent surface (RIS)-aided networks, focusing on applications in millimeter-wave (mmWave) and massive MIMO systems.
-  &#x25CF;
+ 
   
-  <br> Key papers:
+  <br>  &#x25CF; Key papers:
     <br>   - <span class="ban2"><a href="https://ieeexplore.ieee.org/document/6923530">  Three-Dimensional Beamforming: A new enabling technology for 5G wireless networks </a>
      <br>  - <a href="https://www.sciencedirect.com/science/article/abs/pii/S1874490722002282"> 3D beamforming in Intelligent Reflecting Surface (IRS)-assisted multi-user cognitive radio networks</a>
     <br>  - <a href="https://arxiv.org/abs/2407.15463">  Integrated Access and Backhaul (IAB) in Low Altitude Platforms </a></span>
