@@ -145,7 +145,7 @@ display_categories: [Research Interests]
    
   <p>
   <img src="https://github.com/user-attachments/assets/d27aa4db-25cb-40bb-9f92-ba0be747d049" align="left" width="175" height="175"><span>  <p><b> Relay Networks and Cooperative Communications   </b></p></span> 
-  <br> Relay Networks and Cooperative Communications 
+  <br> Our research in relay networks and cooperative communications focuses on improving the performance and reliability of these systems. We investigate novel techniques for relay beamforming and cooperation in communication networks.
  
   
   <br>  &#x25CF; Key papers:
