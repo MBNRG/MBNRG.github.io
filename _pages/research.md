@@ -9,7 +9,7 @@ display_categories: [Research Interests]
 ---
 
 <p>
-  <span>  <p><strong> **Research Focus </strong></p></span> 
+  <span>  <p><strong>  &#x25CF; Research Focus </strong></p></span> 
     <br>  Our research at the MBNRG group is dedicated to advancing wireless communications, primarily focusing on 5G and 6G mobile cellular networks. We specialize in the application of physical layer signal processing techniques, exploring various dimensions such as massive MIMO, intelligent surfaces, jamming-resistant communications, machine learning, and cooperative networks. Our interdisciplinary approach aims to tackle challenges in signal processing, network design, and communication security, with the goal of enhancing the performance, reliability, and security of next-generation wireless systems. Through our innovative strategies, we strive to optimize future wireless communication systems.
      </p>
    
