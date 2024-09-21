@@ -162,7 +162,8 @@ display_categories: [Research Interests]
     <br>   - <span class="ban2"><a href="https://www.researchgate.net/publication/267297934_Joint_beamforming_and_power_control_in_MIMO_cognitive_radio_networks"> Joint beamforming and power control in MIMO cognitive radio networks</a>
      <br>  - <a href="https://ieeexplore.ieee.org/document/10032287"> Secure Beamforming in Multi-User Multi-IRS Millimeter Wave Systems</a>
     <br>  - <a href="https://ieeexplore.ieee.org/document/5449675"> Cooperative beamforming in Cognitive Radio networks </a>
-     <br>  - <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3199"> Modeling and analysis of traffic-aware spectrum handover schemes in cognitive HetNets</a></span>
+     <br>  - <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3199"> Modeling and analysis of traffic-aware spectrum handover schemes in cognitive HetNets</a>
+      <br>  - <a href="https://ieeexplore.ieee.org/document/9542983"> Attacking Massive MIMO Cognitive Radio Networks by Optimized Jamming</a></span>
     </p>
 
    ---
