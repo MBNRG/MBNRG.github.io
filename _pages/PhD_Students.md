@@ -16,7 +16,7 @@
     </p>
 
 <p>
-  <img src="https://github.com/user-attachments/assets/be17bb53-8b33-4d5b-8936-e81fce60b93c" alt="Circular Image" style="border-radius: 50%;" align="left" width="125" height="125"><span>  <p><strong> Ali Rezapour </strong>strong></p></span> 
+  <img src="https://github.com/user-attachments/assets/be17bb53-8b33-4d5b-8936-e81fce60b93c" alt="Circular Image" style="border-radius: 50%;" align="left" width="125" height="125"><span>  <p><strong> Ali Rezapour </strong></p></span> 
     <br>  <span class="ban2"> - <b> Research Area </b>:Physical Layer Security - 6G Wireless Networks  
     <br> - <a href="http://www.linkedin.com/in/ali-rezapour1">   Webpage: LinkedIn </a>
     <br>  - <b>Since</b>: 2021  </span>
