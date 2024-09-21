@@ -28,8 +28,8 @@ display_categories: [Research Interests]
     <br>  - <a href="https://ieeexplore.ieee.org/document/9097154">  3D Beamforming in Reconfigurable Intelligent Surfaces-assisted Wireless Communication Networks </a>
     <br>  - <a href="https://ieeexplore.ieee.org/document/8717632">  Effect of Users Height Distribution on the Coverage of mmWave Cellular Networks With 3D Beamforming </a>
     <br>  - <a href="https://ieeexplore.ieee.org/document/8718092">  Energy efficiency maximization in mmWave wireless networks with 3D beamforming </a>
-     <br>  - <a href="https://ieeexplore.ieee.org/document/8718092">  Vertical Beamforming in Intelligent Reflecting Surface-Aided Cognitive Radio Networks </a>
-      <br>  - <a href="https://ieeexplore.ieee.org/document/8718092">  Energy efficiency maximization in mmWave wireless networks with 3D beamforming </a>
+     <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/9447800">  Vertical Beamforming in Intelligent Reflecting Surface-Aided Cognitive Radio Networks </a>
+      <br>  - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0045790616311211">  Joint tilt angle adaptation and beamforming in multicell multiuser cellular networks </a>
        <br>  - <a href="https://ieeexplore.ieee.org/document/8718092">  Energy efficiency maximization in mmWave wireless networks with 3D beamforming </a></span>
     </p>
    
