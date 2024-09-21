@@ -125,4 +125,18 @@ display_categories: [Research Interests]
    
   ---
 
+
+
+  <p>
+  <img src="https://github.com/user-attachments/assets/4c7e50c8-a406-4a71-85ff-965b54db8c50" align="left" width="175" height="175"><span>  <p><b> Internet of Things (IoT)  </b></p></span> 
+  <br> The IoT is revolutionizing communication networks. Our research focuses on optimizing MIMO systems and massive MIMO for high-rate IoT applications to enhance performance and connectivity.
+ 
+  
+  <br>  &#x25CF; Key papers:
+    <br>   - <span class="ban2"><a href="https://ieeexplore.ieee.org/document/10190080"> Optimum Solutions for Weighted Sum-Rate of NOMA and TDMA in Wireless-Powered IoT Networks </a>
+     <br>  - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168421001705"> Coordinated versus uncoordinated channel tracking for high-rate internet of things in multiuser massive MIMO: Algorithms and performance</a>
+    <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/9345865"> Uncoordinated Channel Tracking for High-Rate Internet of Things in Multiuser Massive MIMO </a></span>
+    </p>
+   
+  
      
