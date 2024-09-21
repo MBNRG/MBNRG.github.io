@@ -151,5 +151,19 @@ display_categories: [Research Interests]
     </p>
 
    ---
+
   
+  <p>
+  <img src="https://github.com/user-attachments/assets/4c7e50c8-a406-4a71-85ff-965b54db8c50" align="left" width="175" height="175"><span>  <p><b> Cognitive Radio and Spectrum Sharing   </b></p></span> 
+  <br> Cognitive radio technology enables dynamic spectrum access and enhances spectrum efficiency. Our research focuses on innovative algorithms for beamforming, power allocation, and spectrum handover to optimize performance and mitigate interference in cognitive networks.
+ 
+  
+  <br>  &#x25CF; Key papers:
+    <br>   - <span class="ban2"><a href="https://www.researchgate.net/publication/267297934_Joint_beamforming_and_power_control_in_MIMO_cognitive_radio_networks"> Joint beamforming and power control in MIMO cognitive radio networks</a>
+     <br>  - <a href="https://ieeexplore.ieee.org/document/10032287"> Secure Beamforming in Multi-User Multi-IRS Millimeter Wave Systems</a>
+    <br>  - <a href="https://ieeexplore.ieee.org/document/5449675"> Cooperative beamforming in Cognitive Radio networks </a>
+     <br>  - <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3199"> Modeling and analysis of traffic-aware spectrum handover schemes in cognitive HetNets</a></span>
+    </p>
+
+   ---
      
