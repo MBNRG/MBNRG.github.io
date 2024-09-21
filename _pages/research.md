@@ -124,35 +124,18 @@ display_categories: [Research Interests]
     </p>
    
   ---
-     
-<p>
-  <img src="https://github.com/user-attachments/assets/c11ac0a6-c0c5-43f2-98c2-53d811ba37de" align="left" width="165" height="165"><span>  <p><b> -Simultaneous Wireless Information and Power Transfer (SWIPT) systems</b></p></span> 
-    <br>  - <span class="ban2"><a href="https://www.sciencedirect.com/science/article/abs/pii/S1874490722001203">AN-aided beamforming for IRS-assisted SWIPT systems</a>
-      <br>
-     <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/7876801">Energy Efficient Precoding Design for SWIPT in MIMO Two-Way Relay Networks</a>
-      <br>
-    <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/9490628/">Outage Balancing in Downlink NOMA Over Nakagami-m Fading Channels</a></span>
-      </p>
-   
-  ---
 
 
- <p>
-  <img src="https://github.com/user-attachments/assets/074e9b77-4c14-497f-9071-576894aec3bb" align="left" width="175" height="175"><span>  <p><b> -Deep learning</b></p></span> 
-    <br>  - <span class="ban2"><a href="https://ieeexplore.ieee.org/abstract/document/9849036">Energy Efficient AP Selection for Cell-Free Massive MIMO Systems: Deep Reinforcement Learning Approach</a>
-      <br>
-     <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/9490648">Deep Reinforcement Learning Based Adaptive Modulation With Outdated CSI</a></span>
-   </p>
-   
-  ---
-
+    <p>
+  <img src="https://github.com/user-attachments/assets/4c7e50c8-a406-4a71-85ff-965b54db8c50" align="left" width="175" height="175"><span>  <p><b> Internet of Things (IoT)  </b></p></span> 
+  <br> The IoT is revolutionizing communication networks. Our research focuses on optimizing MIMO systems and massive MIMO for high-rate IoT applications to enhance performance and connectivity.
+ 
   
-<p>
-  <img src="https://github.com/user-attachments/assets/b91fb33d-54fc-4fa2-99c0-2c543ea09ab0" align="left" width="175" height="175"><span>  <p><b> &nbsp; -Unmanned Aerial Vehicles (UAV) communication systems</b></p></span> 
-    <br>   - <span class="ban2"><a href="https://ieeexplore.ieee.org/abstract/document/10614380"> &nbsp; Integrated Access and Backhaul (IAB) in Low Altitude Platforms</a>
-    <br> 
-      <br> 
-      <br> 
-      <br> 
-      <br> 
-
+  <br>  &#x25CF; Key papers:
+    <br>   - <span class="ban2"><a href="https://ieeexplore.ieee.org/document/10190080"> Optimum Solutions for Weighted Sum-Rate of NOMA and TDMA in Wireless-Powered IoT Networks </a>
+     <br>  - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168421001705"> Coordinated versus uncoordinated channel tracking for high-rate internet of things in multiuser massive MIMO: Algorithms and performance</a>
+    <br>  - <a href="https://ieeexplore.ieee.org/abstract/document/9345865"> Uncoordinated Channel Tracking for High-Rate Internet of Things in Multiuser Massive MIMO </a></span>
+    </p>
+   
+  ---
+     
